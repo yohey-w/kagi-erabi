@@ -35,12 +35,7 @@ keywords: ["北九州市 鍵修理", "北九州市 鍵屋 おすすめ", "北九
 - 北九州市内でも小倉中心部から郊外に向かうほど出張料金が加算される場合があります
 - 鍵の年代が古い場合（昭和時代製造等）、部品の取り寄せで対応が数日遅れることがあります
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市対応の鍵修理相談窓口</h3>
-<p>修理内容を伝えると、現地修理の可否、概算費用、到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 北九州市での鍵修理トラブルと対応ステップ
 
@@ -88,12 +83,7 @@ keywords: ["北九州市 鍵修理", "北九州市 鍵屋 おすすめ", "北九
 安い広告で呼んでも、現地で高額請求されるリスクがあります。北九州市は業者数が多いため、最低でも2社に見積もりを取ることをおすすめします。
 作業前には正式な見積書をもらい、追加料金が発生する条件も確認してから作業を開始してもらいます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市の鍵修理業者を比較したい方へ</h3>
-<p>複数の対応業者の料金体系と実績を確認し、あなたの状況に合わせた業者選びができます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -134,11 +124,6 @@ keywords: ["北九州市 鍵修理", "北九州市 鍵屋 おすすめ", "北九
 
 急いでいる場面ほど、焦らずに複数社を比較する手間が、不要な出費を避ける最善の方法です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市の鍵修理を今すぐ相談する</h3>
-<p>修理の可否、費用目安、到着時間を確認し、信頼できる業者から選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

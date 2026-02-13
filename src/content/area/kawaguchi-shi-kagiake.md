@@ -28,12 +28,7 @@ keywords: ["川口市 鍵開け", "川口市 鍵屋 おすすめ", "川口市 �
 - ※深夜（22時以降）・早朝（6時以前）は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川口市対応の鍵トラブル相談窓口</h3>
-<p>川口市内の出張対応エリア、到着時間の目安、概算費用をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川口市の鍵トラブル事情と対応時の注意点
 
@@ -60,12 +55,7 @@ keywords: ["川口市 鍵開け", "川口市 鍵屋 おすすめ", "川口市 �
 
 川口市内での鍵トラブルは、地域によって対応が変わるからこそ、事前確認が効果的です。焦らずに複数社を比較してから依頼することをお勧めします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川口市の鍵開けを今すぐ相談したい方へ</h3>
-<p>複数の業者と相談でき、到着時間と費用を比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -89,12 +79,7 @@ keywords: ["川口市 鍵開け", "川口市 鍵屋 おすすめ", "川口市 �
 
 防犯上、多くの業者は本人確認書類（運転免許証やマイナンバーカード等）の提示を求めます。これはなりすまし防止と業者自身の保護のためです。事前に身分証を用意しておくと対応がスムーズに進みます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川口市の鍵開けで迷ったら</h3>
-<p>費用目安と到着見込みを確認し、複数の業者から選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

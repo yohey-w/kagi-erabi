@@ -33,12 +33,7 @@ keywords: ["世田谷区 ドア 鍵交換", "世田谷区 鍵屋 おすすめ", 
 
 ※料金は鍵の種類、ドアの状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。無料見積もりも可能です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 失敗しないための確認ポイント3つ
 
@@ -73,12 +68,7 @@ keywords: ["世田谷区 ドア 鍵交換", "世田谷区 鍵屋 おすすめ", 
 「見積もりに納得できなかった場合、無料でキャンセルできるか」も事前に聞いておきましょう。
 悪質な業者だと「来てもらったから出張費は払ってください」と言われることもあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>世田谷区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 世田谷区ならではの鍵交換事情
 
@@ -120,12 +110,7 @@ keywords: ["世田谷区 ドア 鍵交換", "世田谷区 鍵屋 おすすめ", 
 世田谷区対応で24時間365日受付の窓口があれば、万が一の時も安心です。
 電話で状況を伝え、概算費用と到着時間を確認してから依頼しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>今すぐ鍵トラブルを相談する</h3>
-<p>24時間365日対応。世田谷区内の状況をお伝えいただければ、概算と到着見込みをご案内します。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 

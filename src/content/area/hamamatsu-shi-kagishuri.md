@@ -28,12 +28,7 @@ keywords: ["浜松市 鍵修理", "浜松市 鍵屋 おすすめ", "浜松市 �
 - ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>浜松市対応の鍵修理・交換サービス</h3>
-<p>鍵の種類と症状を伝えると、最短到着時間と費用目安を確認できます。緊急対応も24時間受け付けています。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">24時間対応を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 浜松市の鍵トラブル事情と対応時の注意点
 
@@ -68,12 +63,7 @@ keywords: ["浜松市 鍵修理", "浜松市 鍵屋 おすすめ", "浜松市 �
 
 浜松市で信頼できる鍵修理業者を見つけるには、焦らず複数社に電話して「同じ条件で比較」することが何より効果的です。料金の安さだけでなく、質問に対して的確に答えてくれる、到着時間の目安がはっきり言える、という対応の丁寧さも判断基準になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>浜松市の信頼できる鍵修理業者を探す</h3>
-<p>複数社の到着時間と費用を比較して、安心できる業者を選べます。電話相談は無料です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -97,12 +87,7 @@ keywords: ["浜松市 鍵修理", "浜松市 鍵屋 おすすめ", "浜松市 �
 
 業者の見積もりで判断するのが一番です。修理で十分な場合は修理を、部品の劣化が進んでいて繰り返しトラブルが発生しそうな場合は交換をお勧めします。業者に「修理できるか、交換が必要か」を相談し、それぞれの費用を聞いた上で判断してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>浜松市の鍵修理・交換サービスに相談する</h3>
-<p>鍵のトラブルは放置すると悪化します。まずは無料相談で状況を伝え、最適な対応方法を確認しましょう。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談を申し込む →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

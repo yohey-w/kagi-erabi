@@ -34,12 +34,7 @@ keywords: ["杉並区 鍵修理", "杉並区 鍵開け 料金", "杉並区 鍵�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えるだけで、修理か交換かの判断目安と費用感を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## よくある質問（FAQ）
 
@@ -71,12 +66,7 @@ keywords: ["杉並区 鍵修理", "杉並区 鍵開け 料金", "杉並区 鍵�
 ### 3. 追加料金が出る条件を先に聞く
 鍵穴の状態が予想より悪い場合、部品交換や枠調整が必要になり、追加費用が発生することがあります。「どの状態でいくら増えるか」を事前に聞いておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵修理費用を確認する</h3>
-<p>電話で状況を伝えると、概算費用と追加料金の条件を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 失敗しない鍵業者の選び方（杉並区）
 
@@ -113,12 +103,7 @@ keywords: ["杉並区 鍵修理", "杉並区 鍵開け 料金", "杉並区 鍵�
 
 電話で状況を伝えると、修理か交換かの目安、概算費用、到着見込みを確認できます。複数社を比較してから依頼先を決めると、費用面でも納得しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵トラブルを今すぐ相談する</h3>
-<p>24時間対応の窓口で、費用目安と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

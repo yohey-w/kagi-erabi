@@ -29,12 +29,7 @@ keywords: ["江東区 鍵屋 おすすめ", "江東区 鍵交換 費用", "江�
 - オートロック連動物件は追加確認で時間が延びる場合がある
 - 本人確認書類が不足すると作業不可になるケースがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>江東区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。解錠・交換・修理の相談を一括で受け付け、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 江東区で鍵屋を比較するときの5チェックポイント
 
@@ -57,12 +52,7 @@ keywords: ["江東区 鍵屋 おすすめ", "江東区 鍵交換 費用", "江�
 
 問い合わせ時に説明が具体的な業者は、現地での見積もりブレが小さい傾向があります。逆に要点が曖昧な場合は、2〜3社比較してから依頼する方が安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>江東区対応サービスをまとめて比較</h3>
-<p>同じ条件で複数社を比較すると、後からの追加請求リスクを下げられます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 江東区で鍵トラブルが起きた直後にやること
 
@@ -75,12 +65,7 @@ keywords: ["江東区 鍵屋 おすすめ", "江東区 鍵交換 費用", "江�
 
 有明周辺のイベント開催日や豊洲市場周辺の時間帯によっては、通常より移動時間が延びることがあります。実際には「最短何分」より「遅延時の到着見込み」を聞いておく方が、現場での不安を減らせます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>24時間対応の鍵トラブル相談</h3>
-<p>緊急時でも、総額目安・到着見込み・追加条件を電話で整理できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## 江東区の鍵トラブルでよくある質問（FAQ）
 

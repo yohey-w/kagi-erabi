@@ -29,12 +29,7 @@ keywords: ["中央区 鍵屋 おすすめ", "中央区 鍵交換 費用", "中�
 - オートロック連動物件は管理会社確認が必要な場合がある
 - 本人確認書類が不足すると作業不可となることがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>中央区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。鍵開け・鍵交換・鍵修理の相談時に、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 中央区で失敗しない鍵屋選び3つのチェック
 
@@ -53,12 +48,7 @@ keywords: ["中央区 鍵屋 おすすめ", "中央区 鍵交換 費用", "中�
 実際によくある失敗は「急いで1社目に決める」ことです。
 電話時点で説明が具体的な業者ほど、現地での見積もりブレが小さい傾向があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>中央区対応サービスをまとめて比較</h3>
-<p>同じ条件で複数社を見比べると、後から追加費用が発生するリスクを下げやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に先にやること（中央区版）
 
@@ -89,12 +79,7 @@ keywords: ["中央区 鍵屋 おすすめ", "中央区 鍵交換 費用", "中�
 #### Q4. 賃貸物件で鍵交換を依頼しても問題ありませんか？
 契約内容により管理会社や大家の承認が必要です。無断交換は退去時トラブルにつながるため、先に連絡してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>中央区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、概算費用・到着見込み・追加料金条件を一括で確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 中央区で鍵屋を選ぶ際は、最短到着の数字だけで決めず、料金内訳と追加条件を電話時点で確認することが重要です。
 まずは2〜3社を同条件で比較し、説明が具体的な相談先に依頼すると判断ミスを防げます。

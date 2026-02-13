@@ -30,12 +30,7 @@ keywords: ["三鷹市 鍵開け", "三鷹市 鍵屋 おすすめ", "三鷹市 �
 
 ※料金は鍵の種類、破壊の有無、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>三鷹市対応の鍵開け窓口</h3>
-<p>24時間対応で、日中15分〜到着。費用目安と対応可否を先に確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 三鷹市の鍵トラブル事情と対応時の注意点
 
@@ -75,12 +70,7 @@ keywords: ["三鷹市 鍵開け", "三鷹市 鍵屋 おすすめ", "三鷹市 �
 
 三鷹市周辺では複数の業者が24時間対応しています。少なくとも2〜3社に電話して、同じ条件（「今から呼んだら」という時間帯、「この住所で」という場所）で概算を聞き比べることが重要です。安さだけでなく、対応の丁寧さと透明性を重視して選びましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>三鷹市の鍵開け業者を今すぐ比較</h3>
-<p>複数の業者を簡単に比較でき、最適な業者が見つかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を見比べる →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -104,12 +94,7 @@ keywords: ["三鷹市 鍵開け", "三鷹市 鍵屋 おすすめ", "三鷹市 �
 
 防犯上、運転免許証やマイナンバーカード等の身分確認を求める業者がほとんどです。自分が住んでいることを証明するため、住所が記載された書類を持参することをおすすめします。なりすまし防止のためにも、業者の身分確認は正当なので協力しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>三鷹市の鍵開けを専門家に相談</h3>
-<p>FAQ以上の複雑なケースや緊急の場合も、無料相談できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談してみる →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

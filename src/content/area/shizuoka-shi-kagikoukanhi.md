@@ -28,12 +28,7 @@ keywords: ["静岡市 鍵交換 費用", "静岡市 鍵屋 おすすめ", "静�
 - ※出張費・見積もり費が別途かかる場合があります。事前に確認しましょう
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>静岡市対応の鍵交換サービス相談窓口</h3>
-<p>シリンダー交換からスマートロック対応まで、最短対応の業者を比較できます。出張見積もりは無料。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">鍵交換サービスを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 静岡市の鍵交換トラブル事情と交換時の注意点
 
@@ -75,12 +70,7 @@ keywords: ["静岡市 鍵交換 費用", "静岡市 鍵屋 おすすめ", "静�
 
 静岡市で信頼できる鍵交換業者を見つけるには、焦らず3社以上に電話して『同じ条件での見積もり』をもらい、到着時間・料金・防犯グレード・保証を比較することが鉄則です。安さだけでなく、見積もりの段階で丁寧に説明してくれる対応の質を重視することをお勧めします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>静岡市の信頼できる鍵交換業者を探す</h3>
-<p>複数社の到着時間と費用を比較して、防犯グレードにも納得できる業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -104,12 +94,7 @@ keywords: ["静岡市 鍵交換 費用", "静岡市 鍵屋 おすすめ", "静�
 
 24時間対応の鍵交換業者は静岡市にも存在します。ただし夜間・深夜は通常料金の1.5〜2倍の割増料金が加算されるため、依頼前に総額を確認しましょう。緊急を要する場合でも複数社に電話して比較することをお勧めします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>静岡市の鍵交換を今すぐ相談する</h3>
-<p>到着見込み時間と費用目安をまとめて確認し、安心できる業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

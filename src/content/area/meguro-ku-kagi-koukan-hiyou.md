@@ -32,12 +32,7 @@ keywords: ["目黒区 鍵交換 費用", "目黒区 鍵屋 おすすめ", "目�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>目黒区対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 目黒区で費用が上がる条件と業者選びのコツ
 
@@ -50,12 +45,7 @@ keywords: ["目黒区 鍵交換 費用", "目黒区 鍵屋 おすすめ", "目�
 ### 3. ぼったくり回避は2社比較が基本
 広告の最安表示だけで決めると、現地で高額提示されるリスクがあります。目黒区内で比較する際は、渋谷区寄りのエリアは移動効率が高く、世田谷区寄りの住宅地では時間帯により到着時間がぶれやすい傾向があります。条件をそろえて2社以上に見積もりを取りましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>目黒区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に最初にやること（目黒区）
 
@@ -87,12 +77,7 @@ keywords: ["目黒区 鍵交換 費用", "目黒区 鍵屋 おすすめ", "目�
 ### Q4. 賃貸物件で勝手に鍵交換しても問題ありませんか？
 契約内容によっては管理会社や大家の承諾が必要です。先に連絡して、指定業者の有無を確認してから手配する流れが無難です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>目黒区の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

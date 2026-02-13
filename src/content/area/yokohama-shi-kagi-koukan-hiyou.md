@@ -30,12 +30,7 @@ keywords: ["横浜市 鍵交換 費用", "横浜市 鍵屋 おすすめ", "横�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市で費用が上がる条件と業者選びのコツ
 
@@ -48,12 +43,7 @@ keywords: ["横浜市 鍵交換 費用", "横浜市 鍵屋 おすすめ", "横�
 ### 3. ぼったくり回避は2社比較が基本
 広告の最安表示だけで決めると、現地で高額提示されるリスクがあります。横浜市内で比較する際は、都心部に近い西区・中区は移動効率が高く、郊外の瀬谷区や旭区では時間帯により到着時間がぶれやすい傾向があります。条件をそろえて2社以上に見積もりを取りましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>横浜市対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に最初にやること（横浜市）
 
@@ -88,12 +78,7 @@ keywords: ["横浜市 鍵交換 費用", "横浜市 鍵屋 おすすめ", "横�
 ### Q5. 横浜市でも夜間に対応してくれる業者は多いですか？
 横浜市は24時間対応の業者が比較的多い地域です。ただし、夜間割増料金（通常の1.5〜2倍程度）が発生することがあるため、事前に確認が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

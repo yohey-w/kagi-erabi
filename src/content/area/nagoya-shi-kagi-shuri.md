@@ -29,12 +29,7 @@ keywords: ["名古屋市 鍵修理", "名古屋市 鍵屋 おすすめ", "名古
 - ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>名古屋市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 名古屋市の鍵トラブル事情と対応時の注意点
 
@@ -72,12 +67,7 @@ keywords: ["名古屋市 鍵修理", "名古屋市 鍵屋 おすすめ", "名古
 
 名古屋市内で実際に依頼する際は、栄駅周辺の業者と瑞穂区の業者を比較すると、地域の相場感が明確になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数社の見積もりを比較したい方へ</h3>
-<p>名古屋市対応の業者を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -98,12 +88,7 @@ keywords: ["名古屋市 鍵修理", "名古屋市 鍵屋 おすすめ", "名古
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>名古屋市の鍵修理を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 名古屋市で鍵修理・鍵交換を依頼する際は、電話時点で「総額の内訳」「深夜料金の条件」「到着時間の幅」をそろえて複数社に確認することが最も効果的です。急ぎの場面ほど、落ち着いて複数社を比べるプロセスが安心につながります。
 

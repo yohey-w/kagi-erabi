@@ -33,12 +33,7 @@ keywords: ["世田谷区 鍵 作成", "世田谷区 合鍵", "世田谷区 ス�
 
 ※料金は店舗・業者により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の鍵作成サービス</h3>
-<p>鍵の種類と状況を伝えると、即日対応の可否と概算費用を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 失敗しない鍵作成業者の選び方3つのポイント
 
@@ -60,12 +55,7 @@ keywords: ["世田谷区 鍵 作成", "世田谷区 合鍵", "世田谷区 ス�
 世田谷区は住宅地が広く、出張エリアによっては対応不可または追加料金が発生する業者もあります。
 総額でいくらになるかを事前に確認してから依頼すると、現地で慌てずに済みます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>出張費込みの総額を確認したい方へ</h3>
-<p>世田谷区内の対応エリアと料金を事前に確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵作成を依頼する前にやるべきこと
 
@@ -114,12 +104,7 @@ keywords: ["世田谷区 鍵 作成", "世田谷区 合鍵", "世田谷区 ス�
 
 スペアキーが手元にあれば合鍵作成で対応できますが、鍵を紛失して手元に1本もない場合は、防犯上シリンダーごと交換することをおすすめします。拾った人が悪用するリスクを下げるためです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区で今すぐ鍵作成を相談する</h3>
-<p>鍵の種類を伝えて、即日対応の可否と費用の見積もりを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

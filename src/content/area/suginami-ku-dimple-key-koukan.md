@@ -31,12 +31,7 @@ keywords: ["杉並区 ディンプルキー 交換", "杉並区 鍵屋 おすす
 ※深夜・早朝（22時〜7時）は割増料金が3,000円〜10,000円ほど加算される場合があります。
 ※最新情報は必ず公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵トラブル相談窓口</h3>
-<p>ディンプルキー交換の費用目安を確認し、到着時間と合わせて比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の鍵トラブル事情とディンプルキーへの交換理由
 
@@ -89,12 +84,7 @@ keywords: ["杉並区 ディンプルキー 交換", "杉並区 鍵屋 おすす
 怪しいと感じたら、作業前でもキャンセルする勇気が大切です。
 複数社に電話して料金を比較するだけでも、相場感がつかめて安心して依頼できるようになります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵業者を比較したい方へ</h3>
-<p>複数の業者から見積もりを比較し、納得できる依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -127,12 +117,7 @@ keywords: ["杉並区 ディンプルキー 交換", "杉並区 鍵屋 おすす
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区でディンプルキー交換を今すぐ相談する</h3>
-<p>費用目安・到着時間・防犯性能を比較し、安心して依頼できる業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区でディンプルキーへの交換を検討する際は、まず電話で「総額の内訳」「到着時間の見込み」「追加料金の発生条件」を確認し、複数社を比較することをおすすめします。
 防犯性を重視するか、予算を優先するかで選択肢が変わるため、家族構成や地域の状況に合わせて判断すると後悔しにくくなります。

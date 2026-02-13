@@ -31,12 +31,7 @@ keywords: ["杉並区 鍵 作成", "杉並区 鍵屋 おすすめ", "杉並区 �
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵作成サービス</h3>
-<p>電話で鍵の種類を伝えると、概算費用と作業時間の目安を確認できます。即日対応可能な業者も紹介しています。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の鍵作成事情と対応時の注意点
 
@@ -90,12 +85,7 @@ keywords: ["杉並区 鍵 作成", "杉並区 鍵屋 おすすめ", "杉並区 �
 実際、問い合わせ時に「追加料金が発生する条件」を一言確認するだけで、トラブルの発生率は大きく下がります。
 杉並区は中野区や武蔵野市と隣接しているため、近隣エリアの業者にも依頼できる場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵作成業者を比較する</h3>
-<p>複数の業者に概算を確認し、料金と作業時間を比べたうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -121,12 +111,7 @@ keywords: ["杉並区 鍵 作成", "杉並区 鍵屋 おすすめ", "杉並区 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵作成を今すぐ相談する</h3>
-<p>費用目安と作業時間を確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で鍵作成を依頼する際は、まず電話で鍵の種類を伝え、概算費用と作業時間を確認することをおすすめします。
 一般シリンダー鍵なら即日対応できますが、ディンプルキーや電子錠は取り寄せが必要になることがあるため、複数の業者に連絡して比較すると安心です。

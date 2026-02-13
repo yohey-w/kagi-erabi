@@ -32,12 +32,7 @@ keywords: ["新宿区 鍵交換 費用", "新宿区 鍵屋 おすすめ", "新�
 
 ※料金は鍵の種類、扉の状態、時間帯で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新宿区対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新宿区で鍵交換費用が上がりやすい4つの要因
 
@@ -67,12 +62,7 @@ keywords: ["新宿区 鍵交換 費用", "新宿区 鍵屋 おすすめ", "新�
 
 「今ならすぐ行ける」と急かされても、その場で契約を急がないのが重要です。実際に問い合わせると、1分程度の確認で数千円単位の差が出ることがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>費用条件をそろえて比較したい方へ</h3>
-<p>新宿区対応の相談先をまとめて確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵交換を依頼する前にやること（賃貸・分譲共通）
 
@@ -104,12 +94,7 @@ keywords: ["新宿区 鍵交換 費用", "新宿区 鍵屋 おすすめ", "新�
 ### Q4. ディンプルキーはなぜ高いのですか？
 ピン構造が複雑で部材価格が高く、作業難易度も上がるためです。防犯性は高まりますが、費用は一般鍵より上がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新宿区の鍵交換を今すぐ相談する</h3>
-<p>状況に合う対応可否と費用目安を確認し、比較したうえで依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 新宿区 鍵交換 費用で調べる方は、まず電話で「総額目安」と「追加料金条件」を確認し、比較してから依頼する流れが現実的です。急ぎのときほど、条件の言語化が費用トラブルの回避につながります。
 

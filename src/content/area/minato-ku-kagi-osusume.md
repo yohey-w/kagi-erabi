@@ -30,12 +30,7 @@ keywords: ["港区 鍵屋 おすすめ", "港区 鍵交換 費用", "港区 鍵�
 - オートロック連動物件は作業前確認が増える
 - 本人確認ができない場合は作業不可となることがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>港区対応の鍵トラブル相談窓口</h3>
-<p>鍵開け・鍵交換・鍵修理の相談を24時間受付。電話で概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 港区で鍵屋を選ぶなら？おすすめ5タイプ比較
 
@@ -54,12 +49,7 @@ keywords: ["港区 鍵屋 おすすめ", "港区 鍵交換 費用", "港区 鍵�
 逆に「現地でしか分からない」の一点張りなら、同条件で2〜3社比較するのが安全です。
 ぼったくり対策として、追加費用が発生する条件を文言レベルで確認しておきましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>港区対応サービスをまとめてチェック</h3>
-<p>同じ条件で複数社を比べると、現地での想定外請求を避けやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 港区で鍵トラブル時に先にやること
 
@@ -97,12 +87,7 @@ keywords: ["港区 鍵屋 おすすめ", "港区 鍵交換 費用", "港区 鍵�
 契約内容により管理会社や大家の承認が必要です。
 無断交換は退去時トラブルにつながるため、先に連絡してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>港区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、概算費用・到着見込み・追加条件をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

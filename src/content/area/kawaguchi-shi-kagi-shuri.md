@@ -31,12 +31,7 @@ keywords: ["川口市 鍵修理", "川口市 鍵屋 おすすめ", "川口市 �
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川口市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込み時間をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川口市の鍵トラブル事情と対応時にやるべきこと
 
@@ -67,12 +62,7 @@ keywords: ["川口市 鍵修理", "川口市 鍵屋 おすすめ", "川口市 �
 
 川口市は工業団地から住宅地まで特性の異なるエリアが混在するため、実際の出張可能エリアと料金体系を業者ごとに比較することが重要です。「駅前は安いが工業地帯は割高」という業者もあれば、「全市内一律」という業者もあります。自分の地域に合った業者を選びましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>業者選びのコツをプロに相談したい方へ</h3>
-<p>川口市内の複数業者の対応エリアと料金を一度に比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（川口市エリア）
 
@@ -96,12 +86,7 @@ keywords: ["川口市 鍵修理", "川口市 鍵屋 おすすめ", "川口市 �
 
 防犯上、運転免許証などの身分証提示を求める業者がほとんどです。なりすまし防止のため、本人確認は業者側からの当然の要求と考えてください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川口市の鍵トラブルを今すぐ解決する</h3>
-<p>費用目安と到着見込みを確認し、複数業者を比較して選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

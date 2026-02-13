@@ -32,12 +32,7 @@ keywords: ["世田谷区 防犯鍵 交換", "世田谷区 鍵屋 おすすめ", 
 
 ※料金は鍵の種類、扉の状況、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 防犯鍵を選ぶ前に確認すべき3つのポイント
 
@@ -55,12 +50,7 @@ keywords: ["世田谷区 防犯鍵 交換", "世田谷区 鍵屋 おすすめ", 
 
 賃貸の場合、管理会社や大家の承諾なく鍵を交換すると、退去時にトラブルになることがあります。防犯性を高めたいという理由であっても、契約上の手続きが必要な場合があるため、先に相談しておく方が安全です。また、管理会社が提携業者を持っている場合、そちらを利用した方が費用を抑えられることもあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>料金の内訳を比較したい方へ</h3>
-<p>世田谷区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 世田谷区で防犯鍵交換を依頼する前に知っておきたいこと
 
@@ -98,12 +88,7 @@ keywords: ["世田谷区 防犯鍵 交換", "世田谷区 鍵屋 おすすめ", 
 
 「電話での見積もりと現地の請求額が違った」「部材取り寄せで即日完了できなかった」といったケースがあります。電話時に総額目安と完了目処を確認し、複数社で比較することでトラブルを防げます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区の防犯鍵交換を今すぐ相談する</h3>
-<p>費用目安と完了目処を確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

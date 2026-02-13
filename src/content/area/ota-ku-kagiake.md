@@ -30,12 +30,7 @@ keywords: ["大田区 鍵開け", "大田区 鍵屋 おすすめ", "大田区 �
 
 ※料金は鍵の種類や時間帯で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区で鍵業者を選ぶときのチェックポイント
 
@@ -54,12 +49,7 @@ keywords: ["大田区 鍵開け", "大田区 鍵屋 おすすめ", "大田区 �
 「現地でしか分からない」だけで終わる窓口は、依頼前の見積もり精度が低い傾向があります。
 焦って即決せず、条件をそろえて比較してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>条件をそろえて大田区対応業者を比較</h3>
-<p>費用内訳と到着時間を同条件で確認し、納得できる依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル発生時にまずやること（大田区版）
 
@@ -87,12 +77,7 @@ keywords: ["大田区 鍵開け", "大田区 鍵屋 おすすめ", "大田区 �
 実際によくある失敗は、「最短20分」の案内だけで依頼し、現地で追加費用が重なって総額が上がるケースです。
 電話でメモを残し、回答が曖昧な窓口は比較対象として保留にすると、不要なトラブルを避けやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>深夜の鍵トラブルも電話で事前確認</h3>
-<p>概算費用・到着見込み・追加条件を先に把握してから依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）とまとめ
 

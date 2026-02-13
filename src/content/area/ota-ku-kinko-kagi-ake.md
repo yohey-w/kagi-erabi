@@ -31,12 +31,7 @@ keywords: ["大田区 金庫 鍵開け", "大田区 鍵屋 おすすめ", "大�
 
 ※料金は鍵の種類、金庫のサイズ、時間帯により変動します。最新情報は必ず公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区対応の鍵トラブル相談窓口</h3>
-<p>金庫の鍵開けから交換まで。状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区で金庫の鍵トラブルが起きたときの対応フロー
 
@@ -76,12 +71,7 @@ keywords: ["大田区 金庫 鍵開け", "大田区 鍵屋 おすすめ", "大�
 **4. ぼったくり対策は比較が基本**
 同じ条件で2社以上に見積もりを取り、金額・対応態度を比較します。怪しい業者は「その場で決めてくれたら安くする」と急かしてくることが多いため、落ち着いて複数社を比べる時間を確保しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数業者を比較したい方へ</h3>
-<p>大田区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -105,12 +95,7 @@ keywords: ["大田区 金庫 鍵開け", "大田区 鍵屋 おすすめ", "大�
 
 鍵開けの際に鍵穴を傷つけると、中身を取り出せなくなるリスクがあります。作業前に「中身に重要な書類が入っている」と伝え、慎重な作業を依頼してください。対応できない業者は作業を断ることもあるため、複数業者に相談するのが得策です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区の金庫鍵開けを今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、複数業者から選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -28,12 +28,7 @@ keywords: ["札幌市 鍵修理", "札幌市 鍵屋 おすすめ", "札幌市 �
 - ※冬季（11月〜2月）の深夜対応は除雪や交通状況で到着時間がぶれやすくなります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 札幌市の鍵トラブル事情と対応時の注意点
 
@@ -73,12 +68,7 @@ keywords: ["札幌市 鍵修理", "札幌市 鍵屋 おすすめ", "札幌市 �
 
 鍵トラブルは焦りやすいですが、落ち着いて複数社を比較することが、結果として最も安心で安い選択につながります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市の鍵屋を比較したい方へ</h3>
-<p>複数の対応業者の料金条件をそろえて比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -97,12 +87,7 @@ keywords: ["札幌市 鍵修理", "札幌市 鍵屋 おすすめ", "札幌市 �
 ### Q5. 冬の鍵トラブルで気をつけることはありますか？
 札幌市の冬季（11月〜3月）は気温低下で錠前の動きが悪くなり、修理ではなく交換が必要になることがあります。除雪作業のため業者の到着が遅れやすいため、余裕を持ったスケジュールで依頼することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市の鍵修理を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

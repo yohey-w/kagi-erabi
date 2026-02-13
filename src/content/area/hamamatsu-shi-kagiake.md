@@ -31,12 +31,7 @@ keywords: ["浜松市 鍵開け", "浜松市 鍵屋 おすすめ", "浜松市 �
 - ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>浜松市対応の鍵開け相談窓口</h3>
-<p>24時間受付で、現在地からの到着見込みと費用概算をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 浜松市の鍵トラブル事情と対応時の注意点
 
@@ -72,12 +67,7 @@ keywords: ["浜松市 鍵開け", "浜松市 鍵屋 おすすめ", "浜松市 �
 
 複数社への連絡は時間がかかると感じるかもしれませんが、実際には15分程度で済み、ぼったくり防止の効果は大きいです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数業者の費用を比較したい方へ</h3>
-<p>浜松市内の複数の鍵開け業者に一括で相談でき、費用をまとめて比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -99,12 +89,7 @@ keywords: ["浜松市 鍵開け", "浜松市 鍵屋 おすすめ", "浜松市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>浜松市の鍵開けを今すぐ相談する</h3>
-<p>24時間対応で、費用見積もりと到着時間をまとめて確認できます。複数業者の比較も可能です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 浜松市で鍵開けサービスを依頼する際は、電話時点で「費用の内訳」「到着時間の目安」「追加料金の条件」を確認することが最も重要です。
 複数業者への見積もり比較は手間に見えますが、ぼったくり防止と最適な業者選択には欠かせません。

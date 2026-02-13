@@ -30,12 +30,7 @@ keywords: ["杉並区 窓の鍵 修理", "杉並区 鍵屋 おすすめ", "杉�
 ※賃貸物件の場合、管理会社指定の業者がいる可能性があるため、先に確認が必要です
 ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の窓鍵修理相談窓口</h3>
-<p>電話で鍵の種類と状況を伝えると、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の窓鍵トラブル事情と対応時の注意点
 
@@ -75,12 +70,7 @@ keywords: ["杉並区 窓の鍵 修理", "杉並区 鍵屋 おすすめ", "杉�
 ### 4. ぼったくり対策
 作業前に必ず見積書を出してもらい、納得してから作業を依頼しましょう。「とりあえず見に来てもらって、高かったらキャンセルできるか」を電話で確認しておくと安心です。実際、問い合わせ時に「見積もり後のキャンセルは可能ですか」と一言聞くだけで、悪質業者は避けやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>料金の透明性を重視したい方へ</h3>
-<p>電話で概算を確認し、出張費・見積もり費が無料かどうかを比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -106,12 +96,7 @@ keywords: ["杉並区 窓の鍵 修理", "杉並区 鍵屋 おすすめ", "杉�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の窓鍵修理を今すぐ相談する</h3>
-<p>鍵の種類と状況を伝えて、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で窓の鍵修理を依頼する際は、電話時に「鍵の種類」「破損状況」「到着時間の幅」をそろえて確認し、2社以上を比較することで費用を抑えやすくなります。賃貸物件の場合は、管理会社への事前連絡を忘れないようにしましょう。クレセント錠か補助錠か、写真を撮っておくと業者への説明がスムーズです。
 

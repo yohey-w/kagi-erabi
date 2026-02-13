@@ -30,12 +30,7 @@ keywords: ["杉並区 ドアノブ 交換", "杉並区 ドアノブ 修理", "�
 
 ※料金はドアノブの種類、ドアの状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵トラブル相談窓口</h3>
-<p>ドアノブの状態を伝えると、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区でドアノブ交換が高くなる3つの条件
 
@@ -48,12 +43,7 @@ keywords: ["杉並区 ドアノブ 交換", "杉並区 ドアノブ 修理", "�
 ### 3. 時間帯と移動距離の組み合わせ
 杉並区は東西に長く、中央線・京王線・井の頭線など複数路線が通っていますが、業者の拠点との位置関係で到着時間が変わります。深夜や早朝の時間外料金に加え、遠方からの出張費が重なると、想定より高くなる場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>費用の内訳を事前に確認したい方へ</h3>
-<p>基本料金・出張費・時間外料金の内訳を依頼前に確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## ドアノブ交換を失敗しないための3ステップ
 
@@ -96,12 +86,7 @@ keywords: ["杉並区 ドアノブ 交換", "杉並区 ドアノブ 修理", "�
 ### Q5. 防犯性の高いドアノブに交換したいのですが、どれを選べばいいですか？
 サムターン回し防止機能付きのドアノブが一般的です。杉並区では住宅街での侵入盗被害が報告されているため、防犯意識の高い世帯では交換時に防犯タイプを選ぶ方が増えています。業者に相談すると、建物に合った製品を提案してもらえます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区のドアノブ交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

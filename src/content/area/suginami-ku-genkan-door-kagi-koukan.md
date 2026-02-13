@@ -29,12 +29,7 @@ keywords: ["杉並区 玄関ドア 鍵交換", "杉並区 鍵屋 おすすめ", 
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります。
 ※最新情報は必ず公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵交換相談窓口</h3>
-<p>玄関ドアの鍵交換に関する概算費用と到着見込みを確認できます。電話で状況を伝えると、おおよその金額を教えてもらえます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の鍵トラブル事情と対応時の注意点
 
@@ -82,12 +77,7 @@ keywords: ["杉並区 玄関ドア 鍵交換", "杉並区 鍵屋 おすすめ", 
 
 鍵トラブルは焦りますが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要なポイントです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵交換業者を比較する</h3>
-<p>複数の業者に概算を聞いて比較できます。電話で状況を伝えると、おおよその費用と到着時間を教えてもらえます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -113,12 +103,7 @@ keywords: ["杉並区 玄関ドア 鍵交換", "杉並区 鍵屋 おすすめ", 
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の玄関ドア鍵交換を相談する</h3>
-<p>鍵の種類や費用について相談できます。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で玄関ドアの鍵交換に困ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。
 

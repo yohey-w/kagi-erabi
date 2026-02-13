@@ -29,12 +29,7 @@ keywords: ["杉並区 鍵屋 おすすめ", "杉並区 鍵交換 費用", "杉�
 - 破錠対応が必要な場合は交換費用まで含めた確認が必要
 - 本人確認書類がないと対応不可になるケースがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。鍵開け・鍵交換・鍵修理の相談時に、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区で失敗しにくい鍵屋選び3つの確認項目
 
@@ -51,12 +46,7 @@ keywords: ["杉並区 鍵屋 おすすめ", "杉並区 鍵交換 費用", "杉�
 
 慌てて1社目で決めると、到着後に想定外費用が発生することがあります。実際には2〜3社を同条件で比較するだけでも、費用と対応品質の見極め精度は上がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応サービスを比較する</h3>
-<p>同じ条件で複数社を見比べると、後出し請求のリスクを抑えやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に先にやること（杉並区版）
 
@@ -85,12 +75,7 @@ keywords: ["杉並区 鍵屋 おすすめ", "杉並区 鍵交換 費用", "杉�
 #### Q4. 賃貸物件でも鍵交換を依頼して問題ありませんか？
 契約内容により管理会社や大家への事前連絡が必要です。無断交換は退去時トラブルにつながる可能性があるため、先に確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、概算費用・到着見込み・追加料金条件をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

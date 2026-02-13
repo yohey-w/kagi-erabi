@@ -32,12 +32,7 @@ keywords: ["熊本市 鍵開け", "熊本市 鍵屋 おすすめ", "熊本市 �
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>熊本市対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。状況を伝えると、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 熊本市の鍵トラブル事情と対応時の注意点
 
@@ -72,12 +67,7 @@ keywords: ["熊本市 鍵開け", "熊本市 鍵屋 おすすめ", "熊本市 �
 鍵トラブルは焦るが、落ち着いて複数社を比較することが大切です。
 料金の安さだけでなく、到着時間と対応の丁寧さも重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>熊本市対応サービスを比較して選ぶ</h3>
-<p>費用内訳と到着見込みを同じ条件で確認し、納得できる依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -103,12 +93,7 @@ keywords: ["熊本市 鍵開け", "熊本市 鍵屋 おすすめ", "熊本市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>熊本市の鍵トラブルを今すぐ相談</h3>
-<p>概算費用・到着見込み・追加条件を確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 熊本市で鍵開けを依頼するときは、到着の速さだけで決めず、料金内訳と追加条件を電話段階で確認することが重要です。
 下通りやアミュプラザ周辺は特に混雑の影響を受けやすいため、「混雑時の上限」を明確に聞いておくと判断しやすくなります。

@@ -31,12 +31,7 @@ keywords: ["杉並区 引き戸 鍵交換", "杉並区 鍵屋 おすすめ", "�
 - ※引き戸の建付が悪いと、鍵交換後も施錠しにくい場合があります。依頼前に扉の動きを確認しておくと安心です
 - ※料金は錠前の種類、扉の材質、作業時間により変動します。最新情報は公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵交換相談窓口</h3>
-<p>引き戸の錠前タイプを伝えると、概算費用と作業内容の目安を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区で引き戸の鍵交換を依頼する際の注意点
 
@@ -78,12 +73,7 @@ keywords: ["杉並区 引き戸 鍵交換", "杉並区 鍵屋 おすすめ", "�
 
 実際に問い合わせ時、「作業前に必ず見積書を出してもらえますか」と確認するだけで、不透明な追加請求を大幅に減らせます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>引き戸の鍵交換を比較したい方へ</h3>
-<p>杉並区対応の相談先を確認し、複数社の見積もりを比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -113,12 +103,7 @@ keywords: ["杉並区 引き戸 鍵交換", "杉並区 鍵屋 おすすめ", "�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の引き戸鍵交換を今すぐ相談する</h3>
-<p>錠前タイプを伝えると、概算費用と作業内容の目安を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で引き戸の鍵交換を依頼する際は、まず「現在の錠前タイプ」を確認し、電話時に伝えることが重要です。召し合わせ錠か引違戸錠かで工事内容と費用が変わるため、事前に伝えるだけで見積もりの精度が上がります。
 

@@ -32,12 +32,7 @@ keywords: ["杉並区 鍵穴 交換", "杉並区 鍵屋 おすすめ", "杉並�
 
 鍵穴交換は「シリンダー本体の交換」を指します。鍵を差し込む部分全体を新しいものに取り替えるため、鍵修理よりも費用がかかりますが、防犯性を高めたい場合や鍵穴が故障している場合には有効な選択肢です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵トラブル相談窓口</h3>
-<p>鍵穴交換、鍵開け、鍵修理に対応。概算費用と到着時間を電話で確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の鍵トラブル事情と対応時の注意点
 
@@ -78,12 +73,7 @@ keywords: ["杉並区 鍵穴 交換", "杉並区 鍵屋 おすすめ", "杉並�
 
 鍵トラブルは焦る場面ですが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要な判断材料になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵屋を比較検討したい方へ</h3>
-<p>複数社に連絡する前に、対応業者の一覧と料金目安を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -104,12 +94,7 @@ keywords: ["杉並区 鍵穴 交換", "杉並区 鍵屋 おすすめ", "杉並�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵穴交換を今すぐ相談する</h3>
-<p>概算費用と到着時間を確認し、安心して依頼できる業者を見つけましょう。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で鍵穴交換を依頼する際は、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。
 

@@ -32,12 +32,7 @@ keywords: ["港区 鍵交換 費用", "港区 鍵屋 おすすめ", "港区 鍵�
 
 ※料金は鍵の種類、扉の状態、時間帯で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>港区対応の鍵交換相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 料金が上がりやすい場面は？港区ならではの注意点
 
@@ -58,12 +53,7 @@ keywords: ["港区 鍵交換 費用", "港区 鍵屋 おすすめ", "港区 鍵�
 都心部の港区は、同条件なら品川区や江東区よりやや高めの見積もりが出る場合があります。
 そのため、電話時に「通常時間の総額」と「夜間総額」を分けて確認するのが有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金条件を先に確認したい方へ</h3>
-<p>基本料金と部材費、夜間加算の内訳を整理して比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## ぼったくり回避へ: 依頼前に確認すべき5項目
 
@@ -92,12 +82,7 @@ keywords: ["港区 鍵交換 費用", "港区 鍵屋 おすすめ", "港区 鍵�
 ### Q4. 身分証がないと対応してもらえませんか？
 防犯上、本人確認書類の提示を求める業者が一般的です。運転免許証などを準備しておくと対応がスムーズです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>港区の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを先に確認し、条件を比較してから依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -30,12 +30,7 @@ keywords: ["相模原市 鍵交換", "相模原市 鍵屋 おすすめ", "相模
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>相模原市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。24時間365日対応可能な窓口もあります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 相模原市の鍵トラブル事情と対応時の注意点
 
@@ -74,12 +69,7 @@ keywords: ["相模原市 鍵交換", "相模原市 鍵屋 おすすめ", "相模
 
 鍵トラブルは焦りますが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要なポイントです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>相模原市の鍵屋を比較したい方へ</h3>
-<p>複数社に一括で見積もり依頼ができるサービスもあります。料金と到着時間を比較して、納得できる業者を選びましょう。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">比較サービスを見る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -105,12 +95,7 @@ keywords: ["相模原市 鍵交換", "相模原市 鍵屋 おすすめ", "相模
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>相模原市の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。深夜・早朝も対応可能な窓口があります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 相模原市で鍵トラブルに遭ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。
 

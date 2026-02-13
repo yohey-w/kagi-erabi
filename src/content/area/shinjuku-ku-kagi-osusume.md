@@ -29,12 +29,7 @@ keywords: ["新宿区 鍵屋 おすすめ", "新宿区 鍵交換 費用", "新�
 - 防犯サムターン等の特殊構造は作業時間が長くなることがある
 - 身分証提示ができないと対応不可になるケースがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>鍵トラブル相談窓口（新宿区・24時間受付）</h3>
-<p>鍵開け・鍵交換・鍵修理の相談が可能。電話で概算費用と到着見込みを先に確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新宿区で相談しやすい鍵サービス5選
 
@@ -50,12 +45,7 @@ keywords: ["新宿区 鍵屋 おすすめ", "新宿区 鍵交換 費用", "新�
 
 新宿区は駅ごとに交通状況が大きく異なります。新宿駅東口・西口は時間帯で車両移動が読みにくい一方、落合・中井方面は到着が安定しやすいことがあります。電話で「どのエリアから向かうか」まで確認できると判断しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新宿区対応サービスをまとめて比較</h3>
-<p>条件をそろえて2〜3社を比較すると、現地での追加請求リスクを下げやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応状況をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 失敗を避けるための確認ポイント（新宿区版）
 
@@ -72,12 +62,7 @@ keywords: ["新宿区 鍵屋 おすすめ", "新宿区 鍵交換 費用", "新�
 
 ぼったくり被害を避けるには、「電話で概算を出せない」「説明が極端に短い」相談先を1社目で決めないことが肝要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新宿区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、費用目安と到着見込みを確認できます。比較前提で相談すると判断が楽になります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## 鍵トラブル時に新宿区で先にやること
 

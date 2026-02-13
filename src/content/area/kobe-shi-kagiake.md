@@ -30,12 +30,7 @@ keywords: ["神戸市 鍵開け", "神戸市 鍵屋 おすすめ", "神戸市 �
 - ※ディンプルキーや防犯鍵は開錠難易度が高く、料金が割増になることがあります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 神戸市の鍵トラブル事情と対応時の注意点
 
@@ -79,12 +74,7 @@ keywords: ["神戸市 鍵開け", "神戸市 鍵屋 おすすめ", "神戸市 �
 最安表示だけで決めると、現地で高額提示されるリスクがあります。
 神戸市内であれば、最低でも2社以上に電話して同じ条件で見積もりを取ることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数社を比較したい方へ</h3>
-<p>神戸市対応の業者を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -103,12 +93,7 @@ keywords: ["神戸市 鍵開け", "神戸市 鍵屋 おすすめ", "神戸市 �
 ### Q5. 身分証がなくても鍵を開けてもらえますか？
 防犯上の理由から、多くの業者は身分確認書類（運転免許証やマイナンバーカード）の提示を求めます。なりすまし防止のための標準的な対応です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市の鍵開けを今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、複数社を比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

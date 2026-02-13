@@ -66,12 +66,7 @@ keywords: ["三鷹市 鍵屋", "三鷹市 鍵屋 おすすめ", "三鷹市 鍵�
 
 同じ条件（住所、時間帯、作業内容）で2〜3社に見積もりを取り、対応の丁寧さと見積もりの透明性を比較することが、失敗しない業者選びの最強の方法です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>三鷹市の鍵屋を今すぐ比較</h3>
-<p>複数の業者を簡単に見比べ、費用と対応時間を同時確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:top -->
 
 ## よくある質問（FAQ）
 
@@ -91,12 +86,7 @@ keywords: ["三鷹市 鍵屋", "三鷹市 鍵屋 おすすめ", "三鷹市 鍵�
 
 通常のピッキング解錠なら6,000円前後ですが、破壊が必要なら追加10,000〜30,000円かかることもあります。事前に「破壊になったら追加いくら」と確認しておくことで、現地で慌てません。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複雑なケースも専門家に相談</h3>
-<p>FAQ以上の複雑なトラブルでも、無料で相談できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## まとめ
 

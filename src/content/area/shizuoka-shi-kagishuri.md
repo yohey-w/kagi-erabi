@@ -31,12 +31,7 @@ keywords: ["静岡市 鍵修理", "静岡市 鍵屋 おすすめ", "静岡市 �
 
 ※料金は鍵の種類、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>静岡市対応の鍵トラブル無料相談</h3>
-<p>費用見積もりと到着見込み時間を一括確認。複数社の条件を比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 静岡市で業者を選ぶ際の5つの確認ポイント
 
@@ -60,12 +55,7 @@ keywords: ["静岡市 鍵修理", "静岡市 鍵屋 おすすめ", "静岡市 �
 
 静岡市内で比較する際、静岡駅周辺の鍵屋と清水駅周辺の鍵屋では到着時間が異なります。また大手チェーン店は料金が高く、地域密着型の業者は安いことが多いです。条件をそろえて2〜3社に見積もりを取ると、ぼったくり防止と業者選びの透明性が大きく向上します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>静岡市で複数業者の見積もりを比較</h3>
-<p>条件をそろえたうえで、大手と地域密着型の見積もりを同時確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">見積もり比較をする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブルが起こったときの4つの対処ステップ
 
@@ -87,12 +77,7 @@ keywords: ["静岡市 鍵修理", "静岡市 鍵屋 おすすめ", "静岡市 �
 
 実際に問い合わせると、業者によって「即座に概算を出してくれるか」「見積もり書を提示するか」が大きく異なります。対応の丁寧さから業者の信頼度がある程度判断できます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>静岡市の鍵修理を今すぐ相談する</h3>
-<p>24時間対応の相談窓口で、費用見積もりと到着時間を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 
@@ -129,11 +114,6 @@ keywords: ["静岡市 鍵修理", "静岡市 鍵屋 おすすめ", "静岡市 �
 3. **見積もり書を提示してもらい、承諾なく追加作業をされないようにする**
    怪しいと感じたらキャンセルする勇気も必要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>静岡市の鍵修理・交換サービスを比較</h3>
-<p>複数の業者から見積もりを取り、最適な業者を見つけられます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

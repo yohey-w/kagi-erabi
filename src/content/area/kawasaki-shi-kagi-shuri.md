@@ -29,12 +29,7 @@ keywords: ["川崎市 鍵修理", "川崎市 鍵屋 おすすめ", "川崎市 �
 - ※深夜（22時〜8時）対応は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川崎市対応の鍵修理相談窓口</h3>
-<p>修理内容を簡単に説明するだけで、費用目安と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川崎市の鍵トラブル事情と修理時の注意点
 
@@ -78,12 +73,7 @@ keywords: ["川崎市 鍵修理", "川崎市 鍵屋 おすすめ", "川崎市 �
 
 実際、川崎市で大手チェーン業者と地元業者を比較すると、地元業者の方が「現地判断が正確で、追加が少ない」傾向があります。複数社を天秤にかける時間は修理費用を大幅に抑える投資です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川崎市の鍵修理業者を比較したい方へ</h3>
-<p>修理内容に基づいて、複数の対応業者を確認し、電話見積もりを取ることができます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -109,12 +99,7 @@ keywords: ["川崎市 鍵修理", "川崎市 鍵屋 おすすめ", "川崎市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川崎市の鍵修理を今すぐ相談する</h3>
-<p>修理内容と現在地を伝えるだけで、費用目安と到着見込みを確認でき、複数業者から選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 川崎市で鍵修理を依頼する際は、電話時点で「修理内容の詳細」「修理と交換の判断基準」「対応時間と割増料金」をそろえて複数社に確認することが重要です。急ぎの場面ほど、焦らずに比較する時間を取る方が、結果的に費用と対応満足度の両面で大きく有利になります。
 

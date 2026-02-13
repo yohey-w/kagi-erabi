@@ -33,12 +33,7 @@ keywords: ["千葉市 鍵交換 費用", "千葉市 鍵屋 おすすめ", "千�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>千葉市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 千葉市で費用が上がる条件と業者選びのコツ
 
@@ -56,12 +51,7 @@ keywords: ["千葉市 鍵交換 費用", "千葉市 鍵屋 おすすめ", "千�
 
 実際、問い合わせ時に「最終見積もりは作業前に提示されるか」を一言確認するだけで、費用トラブルの発生率は大きく下げられます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>千葉市対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に最初にやること（千葉市）
 
@@ -99,12 +89,7 @@ keywords: ["千葉市 鍵交換 費用", "千葉市 鍵屋 おすすめ", "千�
 
 ディンプルキーやスマートロックは基本シリンダーより防犯性が高いですが、費用は大きく上がります。予算と防犯レベルのバランスを、業者との相談で決めるのがおすすめです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>千葉市の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

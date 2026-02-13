@@ -31,12 +31,7 @@ keywords: ["熊本市 鍵修理", "熊本市 鍵屋 おすすめ", "熊本市 �
 
 ※料金は鍵の種類、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>熊本市対応の鍵トラブル無料相談</h3>
-<p>費用見積もりと到着見込み時間を一括確認。複数社の条件を比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 熊本市で業者を選ぶ際の5つの確認ポイント
 
@@ -55,12 +50,7 @@ keywords: ["熊本市 鍵修理", "熊本市 鍵屋 おすすめ", "熊本市 �
 ### 5. 複数社への電話は最低2社、理想は3社
 熊本市内で比較する際、熊本駅周辺の鍵屋と中央区の上通りの鍵屋、西区の鍵屋では到着時間が異なります。また大手チェーン店は料金が高く、地域密着型の業者は安いことが多いです。条件をそろえて2〜3社に見積もりを取ると、ぼったくり防止と業者選びの透明性が大きく向上します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>熊本市で複数業者の見積もりを比較</h3>
-<p>条件をそろえたうえで、大手と地域密着型の見積もりを同時確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">見積もり比較をする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブルが起こったときの4つの対処ステップ
 
@@ -78,12 +68,7 @@ keywords: ["熊本市 鍵修理", "熊本市 鍵屋 おすすめ", "熊本市 �
 
 実際に問い合わせると、業者によって「即座に概算を出してくれるか」「見積もり書を提示するか」が大きく異なります。対応の丁寧さから業者の信頼度がある程度判断できます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>熊本市の鍵修理を今すぐ相談する</h3>
-<p>24時間対応の相談窓口で、費用見積もりと到着時間を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 
@@ -104,12 +89,7 @@ keywords: ["熊本市 鍵修理", "熊本市 鍵屋 おすすめ", "熊本市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>熊本市の鍵修理・鍵交換のご相談はこちら</h3>
-<p>熊本市全区対応。費用見積もりと到着時間をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 熊本市で鍵修理・鍵交換を依頼する際は、以下の3つを優先しましょう。
 

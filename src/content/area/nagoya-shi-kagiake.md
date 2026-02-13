@@ -28,12 +28,7 @@ keywords: ["名古屋市 鍵開け", "名古屋市 鍵屋 おすすめ", "名古
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります。
 ※最新情報は必ず公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>名古屋市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。深夜・早朝でも電話対応可能な窓口です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 名古屋市の鍵トラブル事情と対応時の注意点
 
@@ -66,12 +61,7 @@ keywords: ["名古屋市 鍵開け", "名古屋市 鍵屋 おすすめ", "名古
 
 鍵トラブルは焦る場面ですが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要なポイントになります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>名古屋市対応の相談先を確認し、条件をそろえて依頼先を選べます。出張費・見積もり費の有無も事前に確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -97,12 +87,7 @@ keywords: ["名古屋市 鍵開け", "名古屋市 鍵屋 おすすめ", "名古
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>名古屋市の鍵開け・鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。深夜・早朝対応の窓口も紹介しています。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 名古屋市で鍵トラブルに遭ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。料金の内訳（基本料金・出張費・部品代・時間外料金）を明示してくれる業者を選ぶと安心です。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。
 

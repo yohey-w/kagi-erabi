@@ -28,12 +28,7 @@ keywords: ["江戸川区 鍵屋 おすすめ", "江戸川区 鍵交換 費用", 
 - 破錠や部品交換が必要なときは部材費が追加される
 - 本人確認ができない場合は作業を断られることがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>鍵トラブル相談窓口（24時間受付）</h3>
-<p>江戸川区での鍵開け・鍵交換について相談できる窓口です。電話時に概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 江戸川区で後悔しない鍵屋選びのポイント
 
@@ -48,12 +43,7 @@ keywords: ["江戸川区 鍵屋 おすすめ", "江戸川区 鍵交換 費用", 
 3. 追加料金の条件を明文化する  
 オートロック、特殊鍵、破錠の有無で金額が変わります。後からの高額請求を防ぐため、追加条件を先に確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>江戸川区対応の鍵業者を比較する</h3>
-<p>1社で即決せず、2〜3社の条件を同じ基準で比べると、不要な追加費用を抑えやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に江戸川区で先に確認すること
 
@@ -70,12 +60,7 @@ keywords: ["江戸川区 鍵屋 おすすめ", "江戸川区 鍵交換 費用", 
 
 深夜や早朝でも鍵トラブルは発生します。夜間は焦って即決しやすいため、まずは費用と到着時間を確認し、比較前提で進めるのが実務的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>24時間受付の鍵トラブル相談</h3>
-<p>解錠・交換・修理の相談をまとめて受付。電話時に「総額目安」と「追加料金条件」を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ### よくある質問（FAQ）
 

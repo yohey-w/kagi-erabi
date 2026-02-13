@@ -27,12 +27,7 @@ keywords: ["京都市 鍵開け", "京都市 鍵屋 おすすめ", "京都市 �
 
 深夜（22時〜朝6時）や日祭日は2,000〜5,000円程度の割増料金が加算される場合が多いです。古都の特性として、観光シーズン（桜・紅葉時期）は業者の対応が遅れやすいため、事前連絡が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>京都市対応の鍵開け相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みを確認できます。複数社比較で最適な依頼先が見つかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 京都市の鍵トラブル事情と対応時の注意点
 
@@ -58,12 +53,7 @@ keywords: ["京都市 鍵開け", "京都市 鍵屋 おすすめ", "京都市 �
 
 また、京都市南区の伏見地域や西京区は住宅地が広がっており、業者によっては「この地域は対応していない」と断られることもあります。事前に「対応エリアに含まれるか」を確認することが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>京都市の地域別対応状況を確認</h3>
-<p>伏見・西京・山科など各地域の対応業者と到着時間の目安をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">地域別対応を見る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 京都市で鍵屋を選ぶ際の4つの確認点
 
@@ -89,12 +79,7 @@ keywords: ["京都市 鍵開け", "京都市 鍵屋 おすすめ", "京都市 �
 
 「怪しいと感じたらキャンセルする勇気」も大切です。作業を開始してからのキャンセルは費用が発生する可能性があるため、概算の段階での比較判断が最も安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数社の見積もりを効率的に比較したい方へ</h3>
-<p>京都市対応の鍵開け業者をまとめて確認し、条件をそろえて比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者比較を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 
@@ -120,12 +105,7 @@ keywords: ["京都市 鍵開け", "京都市 鍵屋 おすすめ", "京都市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>京都市の鍵開けを今すぐ相談する</h3>
-<p>状況に応じた概算費用と対応可否を確認し、複数社比較で最適な業者が見つかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 京都市で鍵開けを依頼する場合は、「通常時間帯」と「夜間・休日」での料金差を理解し、地域特性（路地奥の物件は到着が遅れやすい、観光シーズンは混雑しやすい）を考慮して業者を選ぶことが重要です。複数社に同じ条件で見積もりを取り、料金の内訳が明確な業者を選ぶことで、無駄な出費を防ぎ、信頼できるサービスを受けられます。
 

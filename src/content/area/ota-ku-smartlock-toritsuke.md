@@ -35,12 +35,7 @@ keywords: ["大田区 スマートロック 取付", "大田区 スマートロ�
 
 ※料金は物件の構造、商品選択、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区のスマートロック取付に対応した業者を探す</h3>
-<p>物件に合わせた最適な商品選びと取付工事をまとめて相談できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区でのスマートロック導入事情と取付前の確認項目
 
@@ -76,12 +71,7 @@ keywords: ["大田区 スマートロック 取付", "大田区 スマートロ�
 
 古い戸建てが多い地域では、既設ドア枠が標準規格でないことがあり、取付工事の調整に時間がかかる傾向があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区での取付可否を事前相談する</h3>
-<p>物件写真をもとに、必要な工事内容と費用を詳しく確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口に問い合わせる →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 業者選びの確認点と失敗を避けるコツ
 
@@ -120,12 +110,7 @@ keywords: ["大田区 スマートロック 取付", "大田区 スマートロ�
 
 また「思ったより工事時間がかかった」という場合は、古い物件ほど起きやすいため、事前の現地調査をしてくれる業者を選ぶと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区での確実な取付工事を相談する</h3>
-<p>詳細な見積もりと施工実績をもとに、複数業者を比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者比較・見積依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 
@@ -151,12 +136,7 @@ keywords: ["大田区 スマートロック 取付", "大田区 スマートロ�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区のスマートロック取付を今すぐ相談する</h3>
-<p>物件に合わせた最適な商品選びと、詳細な工事見積もりを複数業者で比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口で比較見積もりする →</a>
-</div>
+<!-- CTA:bottom -->
 
 大田区でスマートロック取付を依頼する際は、「既設鍵の構造」「物件の規格」「電源・通信環境」の3点をそろえた上で、複数社に見積もりを取ることが失敗を防ぐコツです。
 

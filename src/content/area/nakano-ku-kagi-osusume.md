@@ -29,12 +29,7 @@ keywords: ["中野区 鍵屋 おすすめ", "中野区 鍵交換 費用", "中�
 - 破錠対応が必要な場合は交換費用が上乗せされることがある
 - 本人確認書類が不足すると対応不可となることがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>中野区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。鍵開け・鍵交換・鍵修理の相談時に、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 中野区で失敗しにくい鍵屋選び3つの確認項目
 
@@ -51,12 +46,7 @@ keywords: ["中野区 鍵屋 おすすめ", "中野区 鍵交換 費用", "中�
 
 急いでいると1社目に決めがちですが、同条件で2〜3社を比較するだけでも追加費用リスクを下げやすくなります。実際に問い合わせると、説明が具体的な相談先ほど見積もりのブレが小さい傾向があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>中野区対応サービスを比較する</h3>
-<p>同じ条件で複数社を見比べると、後出し請求の不安を抑えやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に先にやること（中野区版）
 
@@ -85,12 +75,7 @@ keywords: ["中野区 鍵屋 おすすめ", "中野区 鍵交換 費用", "中�
 #### Q4. 賃貸物件で鍵交換を依頼しても大丈夫ですか？
 契約内容により管理会社や大家への事前連絡が必要です。無断交換は退去時トラブルにつながる可能性があるため、先に確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>中野区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、概算費用・到着見込み・追加料金条件をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

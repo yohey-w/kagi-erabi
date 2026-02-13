@@ -28,12 +28,7 @@ keywords: ["目黒区 鍵開け", "目黒区 鍵屋 おすすめ", "目黒区 �
 
 ※料金は鍵の種類や時間帯で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>目黒区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。状況を伝えると、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 目黒区で到着時間がぶれやすい時間帯とエリア
 
@@ -63,12 +58,7 @@ keywords: ["目黒区 鍵開け", "目黒区 鍵屋 おすすめ", "目黒区 �
 
 電話で曖昧な回答しか得られない窓口は、現地で総額が膨らむリスクがあります。急いでいても即決せず、同条件比較を優先してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>目黒区対応サービスを比較して選ぶ</h3>
-<p>費用内訳と到着見込みを同じ条件で確認し、納得できる依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル発生時にまずやること（賃貸・紛失）
 
@@ -99,12 +89,7 @@ keywords: ["目黒区 鍵開け", "目黒区 鍵屋 おすすめ", "目黒区 �
 ### Q5. 身分証が手元にない場合でも鍵開けできますか？
 防犯上の理由で対応不可、または警察立ち会いが必要になる場合があります。本人確認書類は可能な範囲で事前に準備しておきましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>目黒区の鍵トラブルを今すぐ相談</h3>
-<p>概算費用・到着見込み・追加条件を確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 目黒区で鍵開けを依頼するときは、到着の速さだけで決めず、料金内訳と追加条件を電話段階で確認することが重要です。
 まずは状況を整理して問い合わせ、概算費用と到着時間の幅を確認してから依頼先を決める流れをおすすめします。

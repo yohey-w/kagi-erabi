@@ -28,12 +28,7 @@ keywords: ["渋谷区 鍵屋 おすすめ", "渋谷区 鍵交換 費用", "渋�
 - 部品交換が必要な場合は部材費が加算される
 - 身分証確認ができない場合、対応不可となることがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>鍵トラブル相談窓口（24時間受付）</h3>
-<p>渋谷区での鍵開け・鍵交換を相談できる窓口。まずは状況を伝えて、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 渋谷区で鍵屋を選ぶときの3つの確認ポイント
 
@@ -48,12 +43,7 @@ keywords: ["渋谷区 鍵屋 おすすめ", "渋谷区 鍵交換 費用", "渋�
 3. 追加料金の発生条件を確認する  
 オートロック、特殊鍵、破錠対応の有無で費用が変わります。後出し請求を避けるため、見積もり時に条件を明文化してもらうのが有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>渋谷区対応の鍵業者をまとめて比較</h3>
-<p>1社だけで決めず、2〜3社の条件をそろえて比較すると、不要な追加費用を避けやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル発生時に先にやること
 
@@ -70,12 +60,7 @@ keywords: ["渋谷区 鍵屋 おすすめ", "渋谷区 鍵交換 費用", "渋�
 
 渋谷区は深夜営業店舗や夜間帰宅者が多く、鍵トラブルの発生時間が偏りにくい地域です。24時間受付の窓口を把握しておくと、夜間の判断負荷を下げられます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>24時間受付の鍵トラブル相談</h3>
-<p>解錠・交換・修理の相談をまとめて受付。電話時に「到着時間」「総額目安」「追加条件」をあわせて確認しましょう。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ### 相談時に伝えると見積もり精度が上がる情報
 

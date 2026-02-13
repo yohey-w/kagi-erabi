@@ -32,12 +32,7 @@ keywords: ["船橋市 鍵交換 費用", "船橋市 鍵屋 おすすめ", "船�
 - ※高防犯性の鍵は部材を取り寄せるため、当日完了できないことがあります
 - ※集合住宅では管理会社への事前確認で作業時間が延びる可能性があります
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>船橋市対応の鍵トラブル相談窓口</h3>
-<p>状況を説明すると、あなたのエリアの到着見込みと概算費用をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 船橋市の鍵トラブル事情と対応時の注意点
 
@@ -67,12 +62,7 @@ keywords: ["船橋市 鍵交換 費用", "船橋市 鍵屋 おすすめ", "船�
 
 4. **ぼったくり対策：複数社に連絡する** — 広告の「最安3,000円から」などの表示だけで決めると、現地で高額提示されるリスクがあります。同じ条件で最低2社、できれば3社に見積もりを取りましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>船橋市の業者を比較したい方へ</h3>
-<p>複数の対応業者に一括で相談でき、最適な選択ができます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -96,12 +86,7 @@ keywords: ["船橋市 鍵交換 費用", "船橋市 鍵屋 おすすめ", "船�
 
 はい、ディンプルキーやスマートロックは基本シリンダーより防犯性が高いです。ただし費用は大きく上がるため、予算と防犯レベルのバランスを、複数の業者に相談して決めるのがおすすめです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>船橋市の鍵交換を今すぐ相談する</h3>
-<p>あなたのエリアの費用目安と到着見込みを確認してから、依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

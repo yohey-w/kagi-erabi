@@ -29,12 +29,7 @@ keywords: ["目黒区 鍵屋 おすすめ", "目黒区 鍵交換 費用", "目�
 - 鍵穴の状態次第で修理より交換が適することがある
 - 身分証確認ができないと対応不可になるケースがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>目黒区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。鍵開け・鍵交換・鍵修理の相談時に、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 目黒区で失敗しにくい鍵屋選び3つのチェック
 
@@ -51,12 +46,7 @@ keywords: ["目黒区 鍵屋 おすすめ", "目黒区 鍵交換 費用", "目�
 
 「急いでいるから1社目で決める」という選び方は、現地での想定外請求につながることがあります。実際には、同条件で2〜3社を比べるだけでも判断の精度が上がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>目黒区対応サービスをまとめて比較</h3>
-<p>同じ条件で比較すると、見積もりのブレや追加費用のリスクを抑えやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に先にやること（目黒区版）
 
@@ -90,12 +80,7 @@ keywords: ["目黒区 鍵屋 おすすめ", "目黒区 鍵交換 費用", "目�
 電話の前に「鍵の種類」「建物名」「現在地」「本人確認書類の有無」を手元に整理しておくと、見積もりの精度が上がりやすくなります。
 目黒区は坂道や細い生活道路が多いエリアもあるため、車両の停車可否や入口の場所まで伝えられると、到着後のやり取りが短く済みます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>目黒区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、概算費用・到着見込み・追加料金の条件を一度に確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -28,12 +28,7 @@ keywords: ["神戸市 鍵修理", "神戸市 鍵屋 おすすめ", "神戸市 �
 - ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。神戸市内の出張対応エリアや即日対応の可否をスピーディに確認しましょう。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 神戸市の鍵トラブル事情と対応時の注意点
 
@@ -62,12 +57,7 @@ keywords: ["神戸市 鍵修理", "神戸市 鍵屋 おすすめ", "神戸市 �
 
 鍵トラブルは焦るものですが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要な判断材料になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市で信頼できる鍵屋を探す</h3>
-<p>複数の業者から見積もりを取り、料金と対応時間を比較できます。神戸市の全エリア対応業者を確認しましょう。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -91,21 +81,11 @@ keywords: ["神戸市 鍵修理", "神戸市 鍵屋 おすすめ", "神戸市 �
 
 鍵屋は防犯上、本人確認を求めることが一般的です。運転免許証やマイナンバーカードなどの身分証がない場合、業者によっては対応を拒否することもあります。事前に身分証を用意しておくと、対応がスムーズに進みます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市の鍵修理を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、複数業者を比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市で鍵のトラブルが起きたら</h3>
-<p>複数の鍵屋に電話して料金と対応時間を比較しましょう。神戸市は業者数が豊富なため、納得できる業者が見つかりやすい地域です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">鍵のトラブル対応サービス →</a>
-</div>
+<!-- CTA:bottom -->
 
 神戸市で鍵のトラブルに遭ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。
 

@@ -28,12 +28,7 @@ keywords: ["世田谷区 鍵開け", "世田谷区 鍵屋 おすすめ", "世田
 
 ※料金は鍵の種類・時間帯・建物状況により変動するため、最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。現在地を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 世田谷区で鍵業者を選ぶチェックポイント
 
@@ -48,12 +43,7 @@ keywords: ["世田谷区 鍵開け", "世田谷区 鍵屋 おすすめ", "世田
 
 三軒茶屋・池尻大橋のように商業施設と住宅が混在するエリアでは、受付窓口の説明の正確さが費用トラブルを防ぐ鍵となります。同じ条件で2〜3社に連絡し、回答の丁寧さを比較するのも有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数社を比較して条件をそろえる</h3>
-<p>世田谷区対応の相談先を確認し、到着時間と料金条件を同じ条件で比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル発生時にまずやること（世田谷区版）
 
@@ -75,12 +65,7 @@ keywords: ["世田谷区 鍵開け", "世田谷区 鍵屋 おすすめ", "世田
 
 夜間・早朝の依頼では、世田谷通り沿いの交通規制が切り替わる時間帯に注意が必要です。受付で「混雑予想」と「到着時間の上限」を聞くと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>24時間の鍵トラブルを電話で事前確認</h3>
-<p>概算費用・到着時間・追加条件を整理してから依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 

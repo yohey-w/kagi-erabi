@@ -30,12 +30,7 @@ keywords: ["杉並区 補助錠 取付", "杉並区 鍵屋 おすすめ", "杉�
 ※ドアに穴あけが必要な場合は追加工事費が発生することがあります。
 ※最新情報は必ず公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の補助錠取付相談窓口</h3>
-<p>扉の状態と希望する防犯レベルを伝えると、適切な補助錠タイプと費用目安をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区で補助錠取付が増えている背景と防犯対策の実態
 
@@ -79,12 +74,7 @@ keywords: ["杉並区 補助錠 取付", "杉並区 鍵屋 おすすめ", "杉�
 広告で「補助錠取付5,000円〜」と表示されていても、実際には「出張費別」「部材費別」で総額が2万円を超えることがあります。
 杉並区内で対応可能な業者を2〜3社リストアップし、同じ条件で見積もりを取って比較することで、不当な高額請求を回避できます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区で補助錠取付を比較したい方へ</h3>
-<p>複数の対応業者から見積もりを取り、総額・取付タイプ・到着時間を比較して選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -116,12 +106,7 @@ keywords: ["杉並区 補助錠 取付", "杉並区 鍵屋 おすすめ", "杉�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区で補助錠取付を今すぐ相談する</h3>
-<p>費用目安・取付タイプ・到着時間を確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で補助錠取付を依頼する際は、「補助錠の種類」「総額の内訳」「追加工事の条件」を電話時点で確認することが重要です。
 賃貸物件の場合は管理会社への事前連絡も忘れずに行い、穴あけ不要タイプを選ぶと原状回復がスムーズです。

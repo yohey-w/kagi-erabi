@@ -30,12 +30,7 @@ keywords: ["川崎市 鍵開け", "川崎市 鍵屋 おすすめ", "川崎市 �
 
 ※料金は鍵の種類や開錠難易度により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川崎市対応の鍵開け相談窓口</h3>
-<p>概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川崎市での鍵トラブル対応
 
@@ -59,12 +54,7 @@ keywords: ["川崎市 鍵開け", "川崎市 鍵屋 おすすめ", "川崎市 �
 
 ぼったくり対策は「複数社に電話して比較する」ことです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数社の料金を比較したい方へ</h3>
-<p>条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問
 
@@ -85,12 +75,7 @@ keywords: ["川崎市 鍵開け", "川崎市 鍵屋 おすすめ", "川崎市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川崎市の鍵開けを相談する</h3>
-<p>費用目安と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 川崎市で鍵開け費用を抑えるコツは、複数社に同じ条件で見積もりを取ることです。急ぎの場面ほど、焦らず比較することで最適な業者が見つかります。
 

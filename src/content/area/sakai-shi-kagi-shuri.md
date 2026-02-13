@@ -28,12 +28,7 @@ keywords: ["堺市 鍵修理", "堺市 鍵屋 おすすめ", "堺市 鍵交換 �
 - ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 堺市の鍵トラブル事情と対応時の注意点
 
@@ -62,12 +57,7 @@ keywords: ["堺市 鍵修理", "堺市 鍵屋 おすすめ", "堺市 鍵交換 �
 
 鍵トラブルは焦るものですが、冷静に複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要な判断基準になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市で鍵屋選びに迷ったら</h3>
-<p>複数の業者から見積もりを取り、費用と対応を比較できるサービスをご紹介します。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -91,12 +81,7 @@ keywords: ["堺市 鍵修理", "堺市 鍵屋 おすすめ", "堺市 鍵交換 �
 
 防犯上の理由から、ほとんどの業者は本人確認書類の提示を求めます。運転免許証やマイナンバーカード、健康保険証などで対応でき、無い場合は住所が確認できる公共料金の請求書なども受け付ける業者もあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市で鍵トラブルを今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

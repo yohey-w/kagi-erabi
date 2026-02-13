@@ -34,12 +34,7 @@ keywords: ["港区 鍵開け", "港区 鍵屋 おすすめ", "港区 鍵交換 �
 
 ※料金は鍵の種類や時間帯で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>港区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。鍵の状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 港区で鍵開け業者を選ぶ3つの判断基準
 
@@ -57,12 +52,7 @@ keywords: ["港区 鍵開け", "港区 鍵屋 おすすめ", "港区 鍵交換 �
 実際に問い合わせると、説明が曖昧な業者ほど「現地判断」の比率が高い傾向があります。
 ぼったくり対策として、同条件で2〜3社に連絡し、回答の具体性を比べる運用が有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>条件をそろえて港区対応業者を比較</h3>
-<p>費用内訳と到着時間を同じ条件で確認し、納得できる依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル発生時にまずやること（港区版）
 
@@ -102,12 +92,7 @@ keywords: ["港区 鍵開け", "港区 鍵屋 おすすめ", "港区 鍵交換 �
 ### Q5. 身分証が手元にない場合は対応してもらえますか？
 防犯上の理由で対応不可、または警察立ち会いが必要になることがあります。本人確認書類は事前準備が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>港区の鍵トラブルを今すぐ相談</h3>
-<p>概算費用・到着見込み・追加条件を電話で確認し、比較したうえで依頼先を決められます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

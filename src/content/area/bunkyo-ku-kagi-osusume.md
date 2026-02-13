@@ -29,12 +29,7 @@ keywords: ["文京区 鍵屋 おすすめ", "文京区 鍵交換 費用", "文�
 - オートロック連動物件は管理会社確認が必要な場合がある
 - 本人確認書類が不足すると作業不可となることがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>文京区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。解錠・交換・修理の相談時に、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 文京区で鍵屋を選ぶ3つの確認ポイント
 
@@ -51,12 +46,7 @@ keywords: ["文京区 鍵屋 おすすめ", "文京区 鍵交換 費用", "文�
 
 ぼったくり対策として、1社目で即決せず、同条件で2〜3社比較する進め方が有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>文京区対応サービスをまとめて比較</h3>
-<p>同じ条件で比較すると、現地での想定外請求を避けやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に先にやること（文京区版）
 
@@ -87,12 +77,7 @@ keywords: ["文京区 鍵屋 おすすめ", "文京区 鍵交換 費用", "文�
 #### Q4. 賃貸物件で鍵交換を依頼しても問題ないですか？
 契約内容により管理会社や大家の承認が必要です。無断交換は退去時のトラブル要因になるため、事前連絡が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>文京区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、概算費用・到着見込み・追加条件をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 文京区で鍵屋を選ぶ際は、到着速度だけで決めず、料金内訳と追加費用条件を電話時点で確認することが重要です。
 2〜3社を同条件で比較し、説明が具体的な相談先へ依頼すると判断ミスを防ぎやすくなります。

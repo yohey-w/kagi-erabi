@@ -30,12 +30,7 @@ keywords: ["北九州市 鍵交換 費用", "北九州市 鍵屋 おすすめ", 
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市対応の鍵交換相談窓口</h3>
-<p>24時間対応で、概算費用と到着時間を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 北九州市で費用が上がる条件と業者選びのコツ
 
@@ -56,12 +51,7 @@ keywords: ["北九州市 鍵交換 費用", "北九州市 鍵屋 おすすめ", 
 
 条件をそろえて2社以上に電話見積もりを取ることで、相場の判断が正確になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市の複数業者から一括相談できます</h3>
-<p>条件をそろえて見積もり比較し、最適な業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に最初にやること（北九州市）
 
@@ -96,12 +86,7 @@ keywords: ["北九州市 鍵交換 費用", "北九州市 鍵屋 おすすめ", 
 ### Q5. ぼったくり被害を防ぐためにはどうすればいいですか？
 最も有効な方法は「複数社への見積もり比較」です。同じ作業内容で明らかに高い見積もりを出す業者は避け、作業前に正式な見積書をもらい、内訳を確認することが大切です。疑問を感じたらキャンセルする勇気も必要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市の鍵交換を今すぐ相談する</h3>
-<p>複数の対応業者から見積もりを比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

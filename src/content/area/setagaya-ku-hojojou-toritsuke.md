@@ -32,12 +32,7 @@ keywords: ["世田谷区 補助錠 取付", "世田谷区 鍵屋 おすすめ", 
 
 ※料金はドアの種類、設置位置、製品グレードにより変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の補助錠取付相談</h3>
-<p>取付タイプと概算費用を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## なぜ補助錠が必要？世田谷区の防犯事情
 
@@ -80,12 +75,7 @@ keywords: ["世田谷区 補助錠 取付", "世田谷区 鍵屋 おすすめ", 
 世田谷区内でも、駒沢・用賀・二子玉川など出張元からの距離により出張費が変わることがあります。
 複数社に同じ条件で見積もりを依頼し、総額で比較する進め方が安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の補助錠取付を比較したい方へ</h3>
-<p>出張費込みの総額を確認し、依頼前に比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 補助錠取付を依頼する前にやっておくこと
 
@@ -130,12 +120,7 @@ keywords: ["世田谷区 補助錠 取付", "世田谷区 鍵屋 おすすめ", 
 施錠が面倒で使わなくなるケースはあります。
 取付位置の高さ、鍵穴の向き、施錠時の力加減などを事前に確認し、普段の動線に合うタイプを選ぶと継続して使いやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区の補助錠取付を今すぐ相談する</h3>
-<p>取付タイプごとの費用目安と、到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

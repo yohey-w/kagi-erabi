@@ -28,12 +28,7 @@ keywords: ["足立区 鍵屋 おすすめ", "足立区 鍵交換 費用", "足�
 - 防犯性の高い鍵は部材費と作業費が上がりやすい
 - オートロック連動物件は管理規約確認が必要
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>鍵トラブル相談窓口（24時間受付）</h3>
-<p>足立区の鍵開け・鍵交換について、状況を伝えると概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">料金目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 足立区で鍵屋を選ぶときに確認したい4つのポイント
 
@@ -50,12 +45,7 @@ keywords: ["足立区 鍵屋 おすすめ", "足立区 鍵交換 費用", "足�
 4. 本人確認の流れを確認する
 身分証がないと開錠できないケースがあります。運転免許証やマイナンバーカードを準備できるか、同居家族の立ち会いが必要かも確認しておくとスムーズです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>足立区対応の鍵業者を比較する</h3>
-<p>1社即決よりも、2〜3社で「到着時間・総額・追加条件」をそろえて比較する方が失敗しにくくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 北千住・綾瀬・西新井で依頼前にやるべき準備
 
@@ -76,12 +66,7 @@ keywords: ["足立区 鍵屋 おすすめ", "足立区 鍵交換 費用", "足�
 
 足立区は終電後の帰宅動線や早朝の移動も多く、時間帯を問わずトラブルが起きます。24時間受付窓口を把握しておくと、緊急時でも落ち着いて比較できます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>24時間365日受付の鍵トラブル相談</h3>
-<p>鍵開け・鍵交換・鍵修理をまとめて相談可能。依頼前に総額目安と追加料金条件を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 電話時には、以下の4点を先に伝えると見積もり精度が上がります。
 

@@ -39,12 +39,7 @@ keywords: ["堺市 鍵交換 費用", "堺市 鍵屋 おすすめ", "堺市 鍵�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市対応の鍵トラブル相談窓口</h3>
-<p>堺市内のエリア別に対応時間と概算費用をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 堺市の鍵トラブル事情と対応時の注意点
 
@@ -89,12 +84,7 @@ keywords: ["堺市 鍵交換 費用", "堺市 鍵屋 おすすめ", "堺市 鍵�
 
 実際、電話での問い合わせ時間を5分増やして、これら4点を確認するだけで、後の費用トラブル発生率は大きく下がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市の複数業者から一括で概算を取りたい方へ</h3>
-<p>到着時間と総額を条件をそろえて比較できます。ぼったくり対策もサポートします。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">複数社に相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -113,12 +103,7 @@ keywords: ["堺市 鍵交換 費用", "堺市 鍵屋 おすすめ", "堺市 鍵�
 ### Q5. スマートロック（電子錠）への交換はいくらですか？
 機種や工事内容により40,000円〜90,000円の幅があります。賃貸物件の場合は管理会社への相談が必須です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市の鍵交換を今すぐ相談したい方へ</h3>
-<p>費用目安と対応時間を確認し、複数社の中から選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

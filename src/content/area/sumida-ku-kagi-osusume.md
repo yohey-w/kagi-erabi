@@ -29,12 +29,7 @@ keywords: ["墨田区 鍵屋 おすすめ", "墨田区 鍵交換 費用", "墨�
 - 賃貸物件は管理会社確認が必要で、作業時間が延びる場合がある
 - 本人確認書類がないと対応不可になるケースがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>墨田区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。状況を伝えるだけで、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 墨田区で鍵屋を選ぶなら？失敗しにくい5つの比較軸
 
@@ -57,12 +52,7 @@ keywords: ["墨田区 鍵屋 おすすめ", "墨田区 鍵交換 費用", "墨�
 
 実際に問い合わせると、説明が具体的な業者ほど見積もりのブレが小さい傾向があります。逆に「現地でしか分からない」の一点張りなら、2〜3社比較してから決める方が安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>墨田区対応サービスをまとめて比較</h3>
-<p>同条件で複数社を比較すると、現地での想定外請求を避けやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル発生時に墨田区で先にやること
 
@@ -75,12 +65,7 @@ keywords: ["墨田区 鍵屋 おすすめ", "墨田区 鍵交換 費用", "墨�
 
 墨田区は隅田川沿いの移動やイベント開催日の混雑で、通常より到着時間が延びることがあります。江東区側からの到着は比較的早いケースもありますが、台東区方面の混雑時間帯は時間に余裕を見た方が実務的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>24時間対応の鍵トラブル相談</h3>
-<p>緊急時でも「総額目安」「到着見込み」「追加条件」を電話1本で確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## 墨田区の鍵トラブル相談でよくある質問（FAQ）
 

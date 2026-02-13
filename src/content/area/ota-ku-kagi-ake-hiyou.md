@@ -30,12 +30,7 @@ keywords: ["大田区 鍵開け 費用", "大田区 鍵屋 おすすめ", "大�
 
 ※料金は鍵の種類・時間帯・業者により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区対応の鍵開け相談窓口</h3>
-<p>蒲田・羽田・大森から選べる業者を確認。費用目安と到着見込みをまとめて比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区で費用が上がる条件と業者選びのポイント
 
@@ -56,12 +51,7 @@ keywords: ["大田区 鍵開け 費用", "大田区 鍵屋 おすすめ", "大�
 
 実際に問い合わせると、「明確に答えてくれる業者」と「曖昧な業者」の2グループに分かれます。曖昧な回答しかしない業者は避け、複数社に同じ質問をして比較することが、ぼったくり防止の鉄則です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を事前確認したい方へ</h3>
-<p>大田区内の複数業者に同じ質問をして、条件をそろえて比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">複数業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵を失くしたり紛失したときの対応手順
 
@@ -96,12 +86,7 @@ keywords: ["大田区 鍵開け 費用", "大田区 鍵屋 おすすめ", "大�
 ### Q5. 身分証がなくても鍵を開けてもらえますか？
 一部の業者は身分確認なしに応じることもありますが、防犯上のリスクが高いため、多くの業者は本人確認を求めます。運転免許証やマイナンバーカードがあると対応がスムーズです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区の鍵開けを今すぐ相談する</h3>
-<p>24時間対応。費用目安と到着見込みを確認し、複数業者から選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

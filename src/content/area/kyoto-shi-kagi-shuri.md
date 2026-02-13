@@ -35,12 +35,7 @@ keywords: ["京都市 鍵修理", "京都市 鍵屋 おすすめ", "京都市 �
 - ※京都市内でも、観光シーズン（桜・紅葉時期）は業者の混雑により到着時間が延びることがあります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>京都市対応の鍵トラブル相談窓口</h3>
-<p>京都市全域対応。状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 京都市の鍵トラブル事情と対応時の注意点
 
@@ -84,12 +79,7 @@ keywords: ["京都市 鍵修理", "京都市 鍵屋 おすすめ", "京都市 �
 
 結論として、京都市で鍵修理を依頼する際は、まず電話で情報を集め、到着時間・料金の内訳・追加条件をそろえて2社以上を比較することが失敗を防ぐ鍵となります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>京都市の鍵修理・鍵交換を相談する</h3>
-<p>複数業者の条件をそろえて比較し、最適な依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -115,12 +105,7 @@ keywords: ["京都市 鍵修理", "京都市 鍵屋 おすすめ", "京都市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>京都市の鍵修理・鍵交換サービスを利用する</h3>
-<p>京都市全域対応。到着時間と費用を確認し、納得できる業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">鍵トラブルを相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 京都市で鍵修理に困ったら、まず落ち着いて複数社に電話し、到着時間・概算費用・追加料金の条件をそろえて比較することをお勧めします。京都市の鍵トラブルは、建物の多様性（築古の町家から最新マンションまで）により対応が異なります。焦らず、比較材料を揃えて依頼先を選ぶことが、費用トラブルを防ぐ最善の方法です。
 

@@ -32,12 +32,7 @@ keywords: ["世田谷区 金庫 鍵開け", "世田谷区 金庫 開錠", "世�
 
 ※料金は金庫のメーカー・型番、鍵の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の金庫鍵開け相談窓口</h3>
-<p>金庫の種類を伝えると、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 世田谷区で金庫鍵開け業者を選ぶ3つのポイント
 
@@ -56,12 +51,7 @@ keywords: ["世田谷区 金庫 鍵開け", "世田谷区 金庫 開錠", "世�
 世田谷区は東西に広く、成城・二子玉川エリアと三軒茶屋・下北沢エリアでは到着時間が変わります。「最短15分」といった最速ケースではなく、「通常何分程度か」を確認する方が現実的です。
 時間帯や交通状況で前後することも想定し、幅を持って聞いておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>破壊・非破壊の選択肢を比較したい方へ</h3>
-<p>世田谷区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 金庫の鍵が開かない時にまずやること（世田谷区）
 
@@ -101,12 +91,7 @@ keywords: ["世田谷区 金庫 鍵開け", "世田谷区 金庫 開錠", "世�
 
 ダイヤル式金庫は番号を忘れても開錠可能ですが、非破壊開錠は高度な技術が必要で費用が高くなります。メーカーの記録が残っている場合はメーカーに問い合わせる方法もあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区の金庫鍵開けを今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -32,12 +32,7 @@ keywords: ["世田谷区 鍵修理", "世田谷区 鍵屋 おすすめ", "世田
 - 世田谷区内でも、烏山・成城エリアは移動時間がかかりやすく、到着見込みに幅が出ます
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の鍵修理相談窓口</h3>
-<p>状況を伝えると、修理か交換かの目安と概算費用を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 修理で済むケース・交換が必要なケースの違い
 
@@ -73,12 +68,7 @@ keywords: ["世田谷区 鍵修理", "世田谷区 鍵屋 おすすめ", "世田
 ### 3. 複数社で比較する際の質問を統一する
 到着時間、基本料金、出張費、時間外料金の4項目を同じ順番で聞くと、回答を比較しやすくなります。
 世田谷区内では、三軒茶屋・下北沢などの商業エリアと砧・成城などの住宅地で到着時間が変わるため、「混雑時の到着見込み」も併せて確認すると安心です。
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>世田谷区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に最初にやること（世田谷区）
 
@@ -104,12 +94,7 @@ keywords: ["世田谷区 鍵修理", "世田谷区 鍵屋 おすすめ", "世田
 - **時間外料金の有無と金額**：22時以降や早朝は3,000円〜10,000円の割増が発生することがあります
 - **到着後のキャンセル料**：業者が現地に到着した後にキャンセルする場合の費用も確認しておくと安心です
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区の鍵修理を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 

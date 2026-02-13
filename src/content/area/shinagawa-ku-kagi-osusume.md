@@ -29,12 +29,7 @@ keywords: ["品川区 鍵屋 おすすめ", "品川区 鍵交換 費用", "品�
 - オートロック連動物件は確認工程が増えることがある
 - 本人確認書類がないと作業不可になるケースがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>品川区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。状況を伝えるだけで、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 品川区で鍵屋を選ぶときの5チェックポイント
 
@@ -57,12 +52,7 @@ keywords: ["品川区 鍵屋 おすすめ", "品川区 鍵交換 費用", "品�
 
 実際に問い合わせると、説明が具体的な業者ほど現地見積もりのブレが小さい傾向があります。ぼったくり対策として、1社目で即決せず、同条件で2〜3社比較する進め方が有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>品川区対応サービスをまとめて比較</h3>
-<p>同条件で複数社を比較すると、現地での想定外請求を避けやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に品川区で先にやること
 
@@ -75,12 +65,7 @@ keywords: ["品川区 鍵屋 おすすめ", "品川区 鍵交換 費用", "品�
 
 品川区はイベント日や通勤時間帯で道路混雑が変わりやすく、特に湾岸側は時間帯で到着見込みがぶれます。最短時間だけでなく、遅延時の目安まで聞くと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>24時間対応の鍵トラブル相談</h3>
-<p>緊急時でも、総額目安・到着見込み・追加条件を電話で確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## 品川区の鍵トラブルでよくある質問（FAQ）
 

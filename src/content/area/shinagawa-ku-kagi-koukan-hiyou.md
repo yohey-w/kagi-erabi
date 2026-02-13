@@ -32,12 +32,7 @@ keywords: ["品川区 鍵交換 費用", "品川区 鍵屋 おすすめ", "品�
 
 ※料金は鍵の種類、扉の状態、時間帯で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>品川区対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 品川区で見積もりが上がる3つのポイント
 
@@ -64,12 +59,7 @@ keywords: ["品川区 鍵交換 費用", "品川区 鍵屋 おすすめ", "品�
 
 実際によくある失敗は、広告の最安表示だけで即決することです。2社以上に同じ条件を伝えて比較すると、費用差と説明の丁寧さを見分けやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金条件を比較したい方へ</h3>
-<p>品川区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時の初動（品川区での連絡順）
 
@@ -99,12 +89,7 @@ keywords: ["品川区 鍵交換 費用", "品川区 鍵屋 おすすめ", "品�
 ### Q4. 賃貸でも勝手に鍵交換してよいですか？
 契約条件により、管理会社や大家への事前連絡が必要な場合があります。先に連絡してから依頼する流れが安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>品川区の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 品川区 鍵交換 費用で検索している方は、まず電話で「総額の目安」と「追加料金が出る条件」を確認し、条件をそろえて比較する進め方が有効です。急ぎの場面でも、確認項目を先に決めるだけで費用トラブルを減らしやすくなります。
 

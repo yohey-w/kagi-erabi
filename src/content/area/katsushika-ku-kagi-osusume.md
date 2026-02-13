@@ -29,12 +29,7 @@ keywords: ["葛飾区 鍵屋 おすすめ", "葛飾区 鍵交換 費用", "葛�
 - 破錠対応が必要な場合は交換費用まで確認しておくと安心
 - 本人確認書類が不足すると対応不可になるケースがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>葛飾区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。鍵開け・鍵交換・鍵修理の相談時に、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 葛飾区で鍵屋を選ぶ3つのチェックポイント
 
@@ -49,12 +44,7 @@ keywords: ["葛飾区 鍵屋 おすすめ", "葛飾区 鍵交換 費用", "葛�
 3. 追加料金の発生条件を事前に確認する
 オートロック、特殊鍵、再訪問、破錠対応など、追加費用が出る条件を先に聞いておくと後からの認識ズレを減らせます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>葛飾区対応サービスを比較する</h3>
-<p>同じ条件で2〜3社を見比べるだけでも、後出し請求のリスクを抑えやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に先にやること（葛飾区版）
 
@@ -88,12 +78,7 @@ keywords: ["葛飾区 鍵屋 おすすめ", "葛飾区 鍵交換 費用", "葛�
 #### Q5. 鍵を落としたときは警察へ連絡した方がよいですか？
 悪用リスクを下げる観点から、遺失届の提出を検討するのが実務的です。届出先は葛飾警察署または亀有警察署の管轄を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>葛飾区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、概算費用・到着見込み・追加料金条件をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

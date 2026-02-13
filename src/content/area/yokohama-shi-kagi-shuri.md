@@ -32,12 +32,7 @@ keywords: ["横浜市 鍵修理", "横浜市 鍵屋 おすすめ", "横浜市 �
 - ※部品が入手困難な場合、当日完了ができないことがあります。
 - ※横浜市内でも繁華街と郊外で到着時間が大きく変わります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市対応の鍵修理・鍵交換相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをその場で確認できます。複数社に一括相談も可能です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市の鍵トラブル事情と対応時の注意点
 
@@ -81,12 +76,7 @@ keywords: ["横浜市 鍵修理", "横浜市 鍵屋 おすすめ", "横浜市 �
 
 横浜市全域対応という業者もあれば、指定エリア内なら対応という業者もあります。自分の地区が対応範囲に入っているか、確認しておくと無駄な電話をしなくて済みます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数社から見積もりを取って比較する</h3>
-<p>横浜市対応の業者から、条件をそろえて見積もりを依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">見積もりを取る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -112,12 +102,7 @@ keywords: ["横浜市 鍵修理", "横浜市 鍵屋 おすすめ", "横浜市 �
 
 横浜市は面積が広いため、中区・西区などの中心部と青葉区・緑区などの郊外で対応時間が大きく異なります。郊外の場合、割増料金が加算される業者もあるため、依頼前に確認が必要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市対応の相談窓口へ</h3>
-<p>状況を伝えると、その場で複数社の見積もり・到着時間が確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

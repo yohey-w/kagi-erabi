@@ -32,12 +32,7 @@ keywords: ["世田谷区 車 鍵 紛失", "世田谷区 車 鍵 作成", "世田
 
 ※料金は車種、鍵の種類、時間帯により変動します。最新情報は各業者の公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の車鍵トラブル相談窓口</h3>
-<p>車種と状況を伝えると、概算費用と到着時間をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 車の鍵を紛失したらまずやること（世田谷区）
 
@@ -77,12 +72,7 @@ keywords: ["世田谷区 車 鍵 紛失", "世田谷区 車 鍵 作成", "世田
 
 実際に問い合わせると、「作業前に最終見積もりを提示してもらえるか」を一言確認するだけで、費用トラブルの発生率を大きく下げられます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>イモビライザー対応の業者を探す</h3>
-<p>世田谷区対応の鍵屋に、車種と鍵の種類を伝えて見積もりを比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -101,12 +91,7 @@ keywords: ["世田谷区 車 鍵 紛失", "世田谷区 車 鍵 作成", "世田
 ### Q5. 保険で車の鍵作成費用はカバーされますか？
 自動車保険の特約やロードサービスで、鍵紛失時の費用が補償される場合があります。作業前に保険会社に連絡し、適用条件を確認しておくことをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区の車鍵紛失を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

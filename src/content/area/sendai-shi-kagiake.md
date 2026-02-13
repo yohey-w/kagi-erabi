@@ -28,12 +28,7 @@ keywords: ["仙台市 鍵開け", "仙台市 鍵屋 おすすめ", "仙台市 �
 - ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市対応の鍵トラブル相談窓口</h3>
-<p>鍵開けの費用目安と最短対応時間を確認できます。状況に応じて最適な業者を紹介してもらえます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 仙台市での鍵開け・鍵トラブル時にまずやるべきこと
 
@@ -67,12 +62,7 @@ keywords: ["仙台市 鍵開け", "仙台市 鍵屋 おすすめ", "仙台市 �
 **4. ぼったくり対策**
 作業前に必ず見積書をもらい、複数社に電話して料金を比較します。怪しいと思ったらキャンセルする勇気も必要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市の鍵開けを複数社で比較したい方へ</h3>
-<p>仙台市対応の複数業者から見積もりを取り、料金と対応を比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -96,12 +86,7 @@ keywords: ["仙台市 鍵開け", "仙台市 鍵屋 おすすめ", "仙台市 �
 
 防犯上、ほとんどの業者が本人確認書類の提示を求めます。なりすまし防止の観点からも、運転免許証やマイナンバーカード等を用意しておくことをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市で今すぐ鍵開けを相談する</h3>
-<p>費用目安と到着見込みを確認し、複数の業者から最適な依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -33,12 +33,7 @@ keywords: ["大阪市 鍵交換 費用", "大阪市 鍵屋 おすすめ", "大�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大阪市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大阪市で費用が上がる条件と業者選びのコツ
 
@@ -54,12 +49,7 @@ keywords: ["大阪市 鍵交換 費用", "大阪市 鍵屋 おすすめ", "大�
 
 広告の最安表示だけで決めると、現地で高額提示されるリスクがあります。大阪市内で比較する際は、中央区の心斎橋エリアは業者数が多く競争が激しい分やや割安、城東区や阿倍野区などは選択肢が限定される傾向があります。条件をそろえて2社以上に見積もりを取りましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>大阪市対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に最初にやること（大阪市）
 
@@ -99,12 +89,7 @@ keywords: ["大阪市 鍵交換 費用", "大阪市 鍵屋 おすすめ", "大�
 
 前の入居者が鍵を持っている可能性があるため、セキュリティ面から交換をおすすめします。大阪市内では引越しシーズン（3月）に業者が集中して予約が取りにくくなるため、早めに手配しておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大阪市の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

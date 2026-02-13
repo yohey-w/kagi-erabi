@@ -28,12 +28,7 @@ keywords: ["大阪市 鍵開け", "大阪市 鍵屋 おすすめ", "大阪市 �
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大阪市対応の鍵トラブル相談窓口</h3>
-<p>24時間365日対応。電話一本で概算費用と到着時間を確認できます。深夜・早朝の割増料金も事前に教えてもらえるので安心です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大阪市の鍵トラブル事情と対応時の注意点
 
@@ -72,12 +67,7 @@ keywords: ["大阪市 鍵開け", "大阪市 鍵屋 おすすめ", "大阪市 �
 
 鍵トラブルは焦るものですが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要な判断材料になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数業者を比較したい方へ</h3>
-<p>大阪市対応の業者に一括で相談できます。料金・到着時間を比較してから依頼先を選べるので安心です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -103,12 +93,7 @@ keywords: ["大阪市 鍵開け", "大阪市 鍵屋 おすすめ", "大阪市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大阪市の鍵トラブル相談はこちら</h3>
-<p>電話一本で概算費用と到着時間を確認。複数業者を比較してから依頼できるので、納得して選べます。深夜・早朝も対応可能です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 大阪市で鍵トラブルに遭ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。
 

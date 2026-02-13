@@ -30,12 +30,7 @@ keywords: ["杉並区 金庫 鍵開け", "杉並区 金庫 鍵屋", "杉並区 �
 
 ※料金は金庫の種類、防犯レベル、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の金庫鍵開け相談窓口</h3>
-<p>金庫の種類を伝えると、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区で金庫の鍵開け業者を選ぶ3つのポイント
 
@@ -48,12 +43,7 @@ keywords: ["杉並区 金庫 鍵開け", "杉並区 金庫 鍵屋", "杉並区 �
 ### 3. 破壊開錠になる条件を事前に聞く
 ダイヤル式金庫で番号が完全に不明な場合や、内部機構が故障している場合、破壊開錠が必要になることがあります。その際の費用と金庫の再利用可否を先に確認しておくと、作業後のトラブルを防げます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>金庫専門業者を比較したい方へ</h3>
-<p>杉並区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 金庫の鍵が開かない時にまず確認すること
 
@@ -92,12 +82,7 @@ keywords: ["杉並区 金庫 鍵開け", "杉並区 金庫 鍵屋", "杉並区 �
 ### Q5. 金庫の鍵開け後、また使えますか？
 非破壊で開錠できた場合は、暗証番号を変更して引き続き使用可能です。破壊開錠が必要だった場合は、金庫本体の交換が必要になることがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の金庫鍵開けを今すぐ相談する</h3>
-<p>金庫の種類と状況を伝え、費用目安と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

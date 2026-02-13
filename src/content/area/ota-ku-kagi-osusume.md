@@ -29,12 +29,7 @@ keywords: ["大田区 鍵屋 おすすめ", "大田区 鍵交換 費用", "大�
 - 破錠対応が必要な場合は交換費用まで含めて確認が必要
 - 本人確認書類がないと作業不可となるケースがある
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区対応の鍵トラブル相談窓口</h3>
-<p>24時間365日受付。鍵開け・鍵交換・鍵修理の相談時に、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">費用目安を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区で失敗しにくい鍵屋選び3つの確認項目
 
@@ -51,12 +46,7 @@ keywords: ["大田区 鍵屋 おすすめ", "大田区 鍵交換 費用", "大�
 
 実際によくある失敗は、急いで1社目に即決してしまうことです。同じ条件で2〜3社を比べるだけでも、不要な追加費用のリスクを下げられます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区対応サービスを比較する</h3>
-<p>複数社を同条件で見比べると、見積もりのブレや後出し請求の不安を抑えやすくなります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に先にやること（大田区版）
 
@@ -85,12 +75,7 @@ keywords: ["大田区 鍵屋 おすすめ", "大田区 鍵交換 費用", "大�
 #### Q4. 賃貸物件でも鍵交換をお願いできますか？
 契約内容によっては管理会社や大家への事前連絡が必要です。無断交換は退去時トラブルにつながる可能性があるため、先に確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区の鍵トラブルを今すぐ相談</h3>
-<p>状況を伝えるだけで、概算費用・到着見込み・追加料金の条件をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

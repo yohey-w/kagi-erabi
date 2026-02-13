@@ -34,12 +34,7 @@ keywords: ["杉並区 鍵紛失", "杉並区 鍵屋 おすすめ", "杉並区 �
 - ドアの歪みや変形がある場合（調整費用が別途発生）
 - 夜間・早朝・雨天時（移動コスト・割増料金）
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵トラブル相談窓口</h3>
-<p>鍵を紛失した状況を伝えると、概算費用と到着見込み時間をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 鍵を紛失した時にまずやるべきこと（杉並区）
 
@@ -67,12 +62,7 @@ keywords: ["杉並区 鍵紛失", "杉並区 鍵屋 おすすめ", "杉並区 �
 ### ポイント3: 複数社に見積もりを取る
 時間がない時ほど1社で決めがちですが、2社比較するだけで5,000〜10,000円の差が出ることもあります。鍵紛失の場合、解錠だけでなく交換の必要性も含めて相談できる業者を選ぶと、後の判断がスムーズです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数の業者を比較したい方へ</h3>
-<p>杉並区対応の業者に、電話時点で総額目安と到着時間を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 深夜・早朝でも対応してくれるサービスはある？
 
@@ -119,12 +109,7 @@ keywords: ["杉並区 鍵紛失", "杉並区 鍵屋 おすすめ", "杉並区 �
 
 火災保険や家財保険に「鍵交換費用補償特約」が付いている場合、保険が適用されることがあります。保険証券を確認し、保険会社に問い合わせてみましょう。ただし、免責額や補償上限があるため、全額カバーされるとは限りません。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵紛失トラブルを今すぐ相談</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

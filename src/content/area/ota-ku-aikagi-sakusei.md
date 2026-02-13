@@ -30,12 +30,7 @@ keywords: ["大田区 合鍵 作成", "大田区 鍵屋 おすすめ", "大田�
 
 ※料金は鍵の種類、業者により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区対応の鍵トラブル相談窓口</h3>
-<p>合鍵作成の費用見積もりと納品時間を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区の合鍵作成事情とよくあるトラブル
 
@@ -64,12 +59,7 @@ keywords: ["大田区 合鍵 作成", "大田区 鍵屋 おすすめ", "大田�
 
 実際に問い合わせると、「その場で完成可能か、部材取り寄せか、どのくらい待つか」が明確に分かります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区で合鍵作成を相談する</h3>
-<p>地域別の対応業者を確認し、最適な依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 大田区で合鍵屋を選ぶ際の確認点
 
@@ -114,11 +104,6 @@ keywords: ["大田区 合鍵 作成", "大田区 鍵屋 おすすめ", "大田�
 
 大田区で合鍵を作成する際は、依頼前に「鍵の種類による料金差」「その場での完成可能性」「複数本作成の料金」の3点を確認することが重要です。蒲田駅周辺なら対応業者が複数あるため、状況に応じて最適な依頼先を選ぶことができます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区の合鍵作成を今すぐ相談する</h3>
-<p>費用見積もりと納品時間を確認し、最適な業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

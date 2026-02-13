@@ -32,12 +32,7 @@ keywords: ["杉並区 シリンダー 交換", "杉並区 鍵交換 費用", "�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵トラブル相談窓口</h3>
-<p>シリンダーの種類と状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区でシリンダー交換が必要になるケース
 
@@ -69,12 +64,7 @@ keywords: ["杉並区 シリンダー 交換", "杉並区 鍵交換 費用", "�
 
 実際、問い合わせ時に「最終見積もりは作業前に提示されるか」を一言確認するだけで、費用トラブルの発生率は大きく下げられます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>杉並区対応の業者に条件をそろえて見積もりを依頼し、総額で比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 杉並区でシリンダー交換を依頼する前にやること
 
@@ -99,12 +89,7 @@ keywords: ["杉並区 シリンダー 交換", "杉並区 鍵交換 費用", "�
 
 杉並区は住宅街が広く、夜間でも対応可能な業者が複数あります。ただし、時間帯により到着時間や料金が変わるため、電話時に「今の条件でいくらか」を確認してから依頼すると安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の緊急シリンダー交換相談</h3>
-<p>24時間対応の業者に状況を伝え、概算費用と到着見込みを確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 

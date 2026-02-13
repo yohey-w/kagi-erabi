@@ -31,12 +31,7 @@ keywords: ["仙台市 鍵交換 費用", "仙台市 鍵屋 おすすめ", "仙�
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります。
 ※最新情報は必ず公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。電話で鍵の種類と場所を伝えるだけで大まかな料金がわかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 仙台市の鍵トラブル事情と対応時の注意点
 
@@ -95,12 +90,7 @@ keywords: ["仙台市 鍵交換 費用", "仙台市 鍵屋 おすすめ", "仙�
 鍵トラブルは焦る場面ですが、落ち着いて複数社を比較することが大切です。
 料金の安さだけでなく、到着時間と対応の丁寧さも重要なポイントです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市の鍵屋を比較したい方へ</h3>
-<p>複数の業者に概算料金と到着時間を確認し、安心して依頼できる鍵屋を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -136,12 +126,7 @@ keywords: ["仙台市 鍵交換 費用", "仙台市 鍵屋 おすすめ", "仙�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 仙台市で鍵トラブルに遭ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。
 複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。

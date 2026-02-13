@@ -32,12 +32,7 @@ keywords: ["杉並区 スマートロック 取付", "杉並区 スマートロ�
 
 ※料金は商品、ドアの状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応のスマートロック取付相談窓口</h3>
-<p>状況を伝えると、概算費用と取付可否をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区でスマートロック取付を失敗しない3つのポイント
 
@@ -59,12 +54,7 @@ keywords: ["杉並区 スマートロック 取付", "杉並区 スマートロ�
 取付業者がアフターサポートを提供しているか、メーカー保証の範囲はどこまでか、電話サポートは何時まで対応しているかを事前に確認しましょう。
 杉並区で対応可能な業者を複数比較し、サポート内容と総額をセットで判断すると安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区のスマートロック取付を比較したい方へ</h3>
-<p>賃貸対応可否、取付費用、サポート内容を比較して依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## スマートロック取付前に確認すべきこと（杉並区）
 
@@ -110,12 +100,7 @@ keywords: ["杉並区 スマートロック 取付", "杉並区 スマートロ�
 
 使えますが、オートロックとの連動が必要な場合は工事が複雑になります。マンションの管理規約を確認し、許可された範囲内で導入しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区のスマートロック取付を今すぐ相談する</h3>
-<p>費用目安、取付可否、サポート内容を確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

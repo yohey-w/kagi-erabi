@@ -31,12 +31,7 @@ keywords: ["杉並区 電子錠 取付", "杉並区 スマートロック 設置
 
 ※料金は電子錠の種類、ドアの状態、配線の有無により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の電子錠取付相談窓口</h3>
-<p>既存ドアとの適合確認、費用見積もりを無料で相談できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区で電子錠を選ぶ際の注意点3つ
 
@@ -51,12 +46,7 @@ keywords: ["杉並区 電子錠 取付", "杉並区 スマートロック 設置
 
 実際、問い合わせ時に「ドア厚を測った数値」と「賃貸か持ち家か」を伝えるだけで、対応可否の判断が即座にできるため、無駄な出張費を払わずに済むことが多いです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>取付可否を事前確認したい方へ</h3>
-<p>写真をLINEで送るだけで、対応可否と概算費用を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 杉並区で電子錠取付を依頼する前にやること
 
@@ -99,12 +89,7 @@ keywords: ["杉並区 電子錠 取付", "杉並区 スマートロック 設置
 ### Q5. スマホで解錠するタイプは、スマホの電池が切れたらどうなりますか？
 多くのスマホ連動電子錠には暗証番号や物理キーでの解錠手段が併用できます。購入前に「スマホ以外の解錠方法」があるか確認しておくと、万が一の際も安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の電子錠取付を今すぐ相談する</h3>
-<p>ドア厚の適合確認、費用見積もりを無料で受けられます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

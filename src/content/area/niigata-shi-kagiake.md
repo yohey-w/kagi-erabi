@@ -28,12 +28,7 @@ keywords: ["新潟市 鍵開け", "新潟市 鍵屋 おすすめ", "新潟市 �
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市対応の鍵トラブル相談窓口</h3>
-<p>中央区・東区・西区の各エリアで、到着時間や費用の目安をまとめて確認。複数社の見積もりを比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新潟市の鍵トラブル事情と対応時の注意点
 
@@ -73,12 +68,7 @@ keywords: ["新潟市 鍵開け", "新潟市 鍵屋 おすすめ", "新潟市 �
 **4. ぼったくり対策として複数社を比較する**
 新潟市内でも、悪質な業者は広告の最安表示を出しながら、現地で高額請求するケースがあります。対策として、「条件をそろえて2社以上に見積もりを取る」「作業前に見積もりに納得してから進める」の2つを徹底するだけで、多くの高額請求トラブルは防げます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市の鍵屋を比較したい方へ</h3>
-<p>複数社の到着時間・料金を一度に確認。見積もり比較で自分に合った業者が見つかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -102,21 +92,11 @@ keywords: ["新潟市 鍵開け", "新潟市 鍵屋 おすすめ", "新潟市 �
 
 多くの業者は防犯上の理由から本人確認を求めます。運転免許証やマイナンバーカードなどを用意しておくと、対応がスムーズに進みます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市の鍵トラブルを今すぐ相談する</h3>
-<p>よくある悩みや不安について、無料で相談できます。費用目安も教えてくれます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市で信頼できる鍵屋を見つける</h3>
-<p>到着時間・料金・対応内容を比較して、自分に合った業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">複数社を比較する →</a>
-</div>
+<!-- CTA:bottom -->
 
 新潟市で鍵のトラブルに遭ったら、焦らず「電話で状況を説明 → 複数社に見積もり → 料金と対応時間を比較 → 依頼」の流れを踏むことが大切です。新潟市は広いエリアのため、同じトラブルでも業者により対応速度や費用が大きく異なります。「最安値」だけでなく、「対応の丁寧さ」「到着時間の信頼性」「見積もりの透明性」も判断基準に入れると、より安心して依頼できます。
 

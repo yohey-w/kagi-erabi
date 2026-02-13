@@ -31,12 +31,7 @@ keywords: ["世田谷区 オートロック 鍵開け", "世田谷区 鍵屋 お
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応のオートロック鍵開け相談</h3>
-<p>オートロックの種類を伝えると、費用目安と到着時間をまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 世田谷区のオートロック鍵開けで費用が変わる3つのポイント
 
@@ -56,12 +51,7 @@ keywords: ["世田谷区 オートロック 鍵開け", "世田谷区 鍵屋 お
 世田谷区は道路が入り組んでおり、三軒茶屋・下北沢などの駅前エリアと成城・等々力の住宅街では到着時間に差が出やすい地域です。
 「最短15分」と聞いても、渋滞や時間帯により1時間以上かかることがあります。「最短」ではなく「通常の幅」を確認し、現実的な見込みを聞いておくと待ち時間のストレスを減らせます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>到着時間の目安を先に確認したい方へ</h3>
-<p>世田谷区内の対応エリアと到着時間の実績を比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を見る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## オートロック鍵トラブル時にまずやるべきこと（世田谷区）
 
@@ -112,12 +102,7 @@ keywords: ["世田谷区 オートロック 鍵開け", "世田谷区 鍵屋 お
 ### Q5. オートロックの暗証番号を忘れただけでも出張費はかかりますか？
 業者により異なります。出張費込みの料金体系か、別途請求かを電話時に確認しておきましょう。番号リセットのみで済む場合は費用が抑えられることもあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区のオートロック鍵開けを今すぐ相談</h3>
-<p>費用目安と到着見込みを確認し、管理会社との調整も含めて相談できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

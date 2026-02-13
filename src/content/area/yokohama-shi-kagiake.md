@@ -31,12 +31,7 @@ keywords: ["横浜市 鍵開け", "横浜市 鍵屋 おすすめ", "横浜市 �
 - ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談してみる →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市の鍵トラブル事情と対応時の注意点
 
@@ -84,12 +79,7 @@ keywords: ["横浜市 鍵開け", "横浜市 鍵屋 おすすめ", "横浜市 �
 実際の問い合わせでよく聞く話として、「最初の電話では1万円と言われたのに、現地で3万円と提示された」というケースがあります。
 鍵の種類や難易度を確認してから複数社を比べることで、こうした失敗を防げます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市の鍵開け業者を比較したい方へ</h3>
-<p>複数の業者から概算を取り、条件をそろえて比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">複数社に問い合わせる →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -110,12 +100,7 @@ keywords: ["横浜市 鍵開け", "横浜市 鍵屋 おすすめ", "横浜市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市の鍵開けを今すぐ相談する</h3>
-<p>概算費用と到着時間を確認し、複数社から選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 横浜市で鍵開けが必要になったら、まずは電話で「基本料金」「出張費」「時間帯による加算」を確認し、2社以上から見積もりを取ることが最重要です。
 慌てずに複数社を比較することで、相場より高い業者を避けられます。

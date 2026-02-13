@@ -47,12 +47,7 @@ keywords: ["世田谷区 シリンダー交換", "世田谷区 鍵交換 費用"
 
 ※料金は鍵の種類、扉の構造、業者により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の鍵トラブル相談窓口</h3>
-<p>シリンダー交換の費用目安と到着時間を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## どのシリンダーを選ぶべき？防犯性能の違い
 
@@ -98,12 +93,7 @@ keywords: ["世田谷区 シリンダー交換", "世田谷区 鍵交換 費用"
 ### 4. 保証内容を確認する
 交換後に不具合が出た場合、無償で対応してくれるかを確認しましょう。保証期間（3ヶ月〜1年程度）や、保証対象外の条件も聞いておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区で安心して依頼できる鍵業者を探す</h3>
-<p>見積もりの透明性や到着時間を比較して選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -130,10 +120,5 @@ keywords: ["世田谷区 シリンダー交換", "世田谷区 鍵交換 費用"
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区のシリンダー交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、複数業者を比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 

@@ -32,12 +32,7 @@ keywords: ["相模原市 鍵開け", "相模原市 鍵屋 おすすめ", "相模
 
 ※料金は鍵の種類や時間帯により変動します。最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>相模原市対応の鍵開け無料相談</h3>
-<p>24時間365日受付。状況を伝えると、概算費用と到着見込みを確認できます。複数社比較で納得できる業者が見つかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 相模原市の鍵トラブル事情と緊急時の対応手順
 
@@ -89,12 +84,7 @@ keywords: ["相模原市 鍵開け", "相模原市 鍵屋 おすすめ", "相模
 
 電話で曖昧な回答しか得られない業者は、現地で総額が膨らむリスクが高いです。急いでいても即決せず、2〜3社に同じ質問をして比較してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>相模原市の鍵屋を比較して選ぶ</h3>
-<p>到着時間・料金内訳・追加条件を同じ基準で確認し、納得できる業者を見つけられます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -118,12 +108,7 @@ keywords: ["相模原市 鍵開け", "相模原市 鍵屋 おすすめ", "相模
 
 防犯上の理由で本人確認が必須の業者がほとんどです。身分証がない場合は、警察立ち会いのもとで作業が進むこともあります。事前に「身分証がない場合の対応可否」を聞いておくと、トラブルを避けられます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>相模原市の鍵トラブルを今すぐ相談</h3>
-<p>状況を説明すると、概算費用と到着時間を確認できます。複数社との比較で、安心できる業者が見つかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ：相模原市での鍵トラブル対応の流れ
 

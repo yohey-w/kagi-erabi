@@ -31,12 +31,7 @@ keywords: ["札幌市 鍵交換 費用", "札幌市 鍵屋 おすすめ", "札�
 ※冬季（12月〜3月）は積雪により移動に時間がかかるため、到着時間が遅れることがあります。
 ※最新情報は必ず公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込み、冬季の対応状況をまとめて確認できます。急ぎの場合も、電話で総額を先に聞いてから依頼すると安心です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 札幌市の鍵トラブル事情と対応時の注意点
 
@@ -78,12 +73,7 @@ keywords: ["札幌市 鍵交換 費用", "札幌市 鍵屋 おすすめ", "札�
 
 鍵トラブルは焦る場面ですが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要なポイントです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市の鍵トラブルを今すぐ相談</h3>
-<p>冬季の対応状況、到着時間の目安、総額を確認したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -109,12 +99,7 @@ keywords: ["札幌市 鍵交換 費用", "札幌市 鍵屋 おすすめ", "札�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市の鍵交換を今すぐ相談する</h3>
-<p>費用目安、到着見込み、冬季の対応状況を確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 札幌市で鍵トラブルに遭ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。
 複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。特に冬季は移動に時間がかかるため、到着時間の「幅」を確認し、総額で判断することが重要です。

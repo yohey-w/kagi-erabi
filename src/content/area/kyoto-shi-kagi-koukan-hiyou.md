@@ -30,12 +30,7 @@ keywords: ["京都市 鍵交換 費用", "京都市 鍵屋 おすすめ", "京�
 
 ※料金は鍵の種類、建物構造、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>京都市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。古建築の対応経験も豊富です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 京都市で鍵トラブルが多い理由と事前確認のコツ
 
@@ -51,12 +46,7 @@ keywords: ["京都市 鍵交換 費用", "京都市 鍵屋 おすすめ", "京�
 
 町内会や建物の管理会社によっては、指定業者の利用を求められることがあります。特に洛中の老舗建物や集合住宅では先に管理先に連絡し、使用可能な業者の制限がないか確認してから依頼するのが無難です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>古建築対応の鍵交換をお探しなら</h3>
-<p>京都市内の古い建物での施工実績が豊富な業者に相談できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル時に最初にやること（京都市）
 
@@ -92,12 +82,7 @@ keywords: ["京都市 鍵交換 費用", "京都市 鍵屋 おすすめ", "京�
 
 ほとんどの業者が22時以降は割増料金（通常の1.5～2倍）を設定しています。総額で確認してから依頼することをお勧めします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>京都市の鍵交換を今すぐ相談する</h3>
-<p>古建築対応の業者に相談し、地域に合わせた最適な見積もりを取れます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

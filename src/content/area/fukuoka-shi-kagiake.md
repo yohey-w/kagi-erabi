@@ -28,12 +28,7 @@ keywords: ["福岡市 鍵開け", "福岡市 鍵屋 おすすめ", "福岡市 �
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>福岡市対応の鍵トラブルサービス</h3>
-<p>天神・博多エリアなら最短15分到着。電話で概算費用と到着時間を事前確認できます。深夜・早朝の割増料金も明示してくれる業者を選びましょう。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 福岡市の鍵トラブル事情と対応時の注意点
 
@@ -74,12 +69,7 @@ keywords: ["福岡市 鍵開け", "福岡市 鍵屋 おすすめ", "福岡市 �
 
 鍵トラブルは焦りますが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重要なポイントになります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>福岡市で安心して頼める鍵屋を探す</h3>
-<p>出張費無料、料金明示、到着時間明確な業者を比較できます。電話で概算を聞いてから依頼先を選びましょう。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -105,12 +95,7 @@ keywords: ["福岡市 鍵開け", "福岡市 鍵屋 おすすめ", "福岡市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>福岡市の鍵トラブルを今すぐ解決</h3>
-<p>状況を伝えると概算費用と到着時間を教えてくれます。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 福岡市で鍵トラブルに遭ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。
 

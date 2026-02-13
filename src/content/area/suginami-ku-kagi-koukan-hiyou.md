@@ -30,12 +30,7 @@ keywords: ["杉並区 鍵交換 費用", "杉並区 鍵屋 おすすめ", "杉�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区で費用が上がる条件と業者選びのコツ
 
@@ -51,12 +46,7 @@ keywords: ["杉並区 鍵交換 費用", "杉並区 鍵屋 おすすめ", "杉�
 
 広告の最安表示だけで決めると、現地で高額提示されるリスクがあります。杉並区は業者数が多いエリアのため、条件をそろえて2社以上に見積もりを取りましょう。高円寺・阿佐ヶ谷など駅近エリアは到着が早いですが、住宅街深くでは時間がかかることがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>杉並区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル発生時に最初にやること（杉並区）
 
@@ -104,12 +94,7 @@ keywords: ["杉並区 鍵交換 費用", "杉並区 鍵屋 おすすめ", "杉�
 
 出張費が変わる場合があります。駅近エリアは業者の移動効率が高く、出張費が抑えられる傾向があります。住宅街深くでは駐車場確保や到着時間の関係で追加料金が発生することがあるため、見積もり時に確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

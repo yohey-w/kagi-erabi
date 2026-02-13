@@ -30,12 +30,7 @@ keywords: ["杉並区 鍵開け", "杉並区 鍵屋 おすすめ", "杉並区 �
 
 ※料金は鍵の種類、作業難度、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区対応の鍵開けサービス</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区で鍵開け業者を選ぶ3つのポイント
 
@@ -51,12 +46,7 @@ keywords: ["杉並区 鍵開け", "杉並区 鍵屋 おすすめ", "杉並区 �
 
 防犯上、鍵開けを依頼する際は本人確認が必須です。運転免許証やマイナンバーカードなどの提示を求める業者は信頼性が高いです。逆に、身分証なしで鍵を開ける業者は悪質な可能性があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵開け業者を比較する</h3>
-<p>到着時間と総額を比較し、安心して依頼できる業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵開けトラブル発生時にまずやること（杉並区）
 
@@ -98,12 +88,7 @@ keywords: ["杉並区 鍵開け", "杉並区 鍵屋 おすすめ", "杉並区 �
 
 駅近エリアは業者の移動効率が高く、到着が早い傾向があります。住宅街深くでは道路状況や駐車場確保の関係で時間がかかることがあるため、見積もり時に確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の鍵開けを今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

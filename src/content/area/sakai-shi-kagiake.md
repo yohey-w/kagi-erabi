@@ -31,12 +31,7 @@ keywords: ["堺市 鍵開け", "堺市 鍵屋 おすすめ", "堺市 鍵開け �
 - ※鍵の種類（ディンプルキー・電子錠・シリンダー）により料金が大きく変動します
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市対応の鍵開け相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。深夜対応の可否も確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 堺市の鍵トラブル事情と緊急時の対応フロー
 
@@ -91,12 +86,7 @@ keywords: ["堺市 鍵開け", "堺市 鍵屋 おすすめ", "堺市 鍵開け �
 
 作業前には必ず「見積書」を書面で提示させることが、後のトラブル防止に繋がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市の複数業者を比較したい方へ</h3>
-<p>条件をそろえて複数社の見積もりを確認し、信頼できる業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -120,12 +110,7 @@ keywords: ["堺市 鍵開け", "堺市 鍵屋 おすすめ", "堺市 鍵開け �
 
 本人確認書類（運転免許証やマイナンバーカード）の提示を求める業者がほとんどです。なりすまし防止のため、事前に用意しておくと対応がスムーズです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>堺市の鍵開けを今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、複数社から選んで依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

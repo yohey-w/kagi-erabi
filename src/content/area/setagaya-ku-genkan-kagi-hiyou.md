@@ -30,12 +30,7 @@ keywords: ["世田谷区 玄関 鍵 費用", "世田谷区 鍵屋 おすすめ",
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## ぼったくり被害を防ぐ！世田谷区の鍵屋選び3つのポイント
 
@@ -48,12 +43,7 @@ keywords: ["世田谷区 玄関 鍵 費用", "世田谷区 鍵屋 おすすめ",
 ### ポイント3：最低2社に見積もりを取る
 広告の最安表示だけで決めると、現地で高額提示されるリスクがあります。世田谷区内では下北沢・三軒茶屋エリアは交通アクセスが良く到着が早い傾向にあり、砧・成城エリアは住宅街で到着に時間がかかることがあります。条件をそろえて2社以上に見積もりを取りましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>世田谷区対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵トラブル発生時にまずやるべきこと（世田谷区）
 
@@ -98,12 +88,7 @@ keywords: ["世田谷区 玄関 鍵 費用", "世田谷区 鍵屋 おすすめ",
 ### Q5. 身分証がなくても鍵を開けてもらえますか？
 防犯上、運転免許証やマイナンバーカードなどの本人確認書類の提示を求める業者がほとんどです。身分証がない場合、対応を断られることがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区の鍵トラブルを今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -30,12 +30,7 @@ keywords: ["大田区 鍵修理 費用", "大田区 鍵屋 おすすめ", "大�
 ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区対応の鍵トラブル相談窓口</h3>
-<p>鍵開け・鍵交換・鍵修理の緊急対応に対応。電話で状況を伝えると、概算費用と到着見込み時間を確認できます。深夜・早朝対応も相談可能です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区の鍵トラブル事情と対応時の注意点
 
@@ -83,12 +78,7 @@ keywords: ["大田区 鍵修理 費用", "大田区 鍵屋 おすすめ", "大�
 
 鍵トラブルは焦りますが、落ち着いて複数社を比較することが大切です。料金の安さだけでなく、到着時間と対応の丁寧さも重視しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区の鍵トラブル相談窓口</h3>
-<p>電話で鍵のトラブル状況を伝えると、概算費用と到着時間を確認できます。作業前に見積もりを提示してくれるため、安心して依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -114,12 +104,7 @@ keywords: ["大田区 鍵修理 費用", "大田区 鍵屋 おすすめ", "大�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区の鍵トラブルを今すぐ解決</h3>
-<p>鍵開け・鍵交換・鍵修理の緊急対応に対応。電話で状況を伝えると、概算費用と到着見込み時間を確認できます。作業前に見積もりを提示してくれるため安心です。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談はこちら →</a>
-</div>
+<!-- CTA:bottom -->
 
 大田区で鍵トラブルに遭ったら、まず電話で状況を伝え、概算費用と到着時間を確認することをおすすめします。複数社に連絡して比較すると、より安心して依頼できる業者が見つかります。特に蒲田駅や大森駅周辺では業者の選択肢も多いため、焦らず比較検討しましょう。
 

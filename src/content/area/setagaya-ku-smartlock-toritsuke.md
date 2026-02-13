@@ -31,12 +31,7 @@ keywords: ["世田谷区 スマートロック 取付", "世田谷区 スマー�
 
 ※料金は製品、扉の状態、追加工事の有無により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区のスマートロック取付相談窓口</h3>
-<p>扉の形状を伝えると、対応可能な製品と工事費の目安を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 世田谷区でスマートロックを選ぶ3つのポイント
 
@@ -49,12 +44,7 @@ keywords: ["世田谷区 スマートロック 取付", "世田谷区 スマー�
 ### 3. スマホアプリの使いやすさと電池交換の頻度
 スマートロックは電池駆動が多く、交換頻度は製品により4ヶ月〜2年と幅があります。世田谷区内で共働き世帯が多いエリアでは、電池切れ時の締め出しリスクを減らすため「電池残量通知機能」付きを選ぶ声が多く聞かれます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>製品選びと工事費を比較したい方へ</h3>
-<p>世田谷区対応の相談先を確認し、条件に合う製品と業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## スマートロック取付前に確認すべきこと（世田谷区）
 
@@ -86,12 +76,7 @@ keywords: ["世田谷区 スマートロック 取付", "世田谷区 スマー�
 ### Q4. オートロック物件でもスマートロックは使えますか？
 玄関ドアには取付可能ですが、共用エントランスのオートロックは別途解錠が必要です。製品によってはオートロック連動機能がありますが、管理組合の許可が必要なケースが多いため、事前確認をおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区のスマートロック取付を相談する</h3>
-<p>扉の状態に合う製品と工事費を確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -28,12 +28,7 @@ keywords: ["世田谷区 鍵紛失", "世田谷区 鍵屋 おすすめ", "世田
 
 ※料金は鍵の種類・時間帯・建物状況により変動するため、最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区対応の鍵トラブル相談窓口</h3>
-<p>今いる場所と建物種別を伝えると、概算費用・到着時間・追加条件をまとめて案内してもらえます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 世田谷区で鍵業者を選ぶチェックポイント
 
@@ -48,12 +43,7 @@ keywords: ["世田谷区 鍵紛失", "世田谷区 鍵屋 おすすめ", "世田
 
 四面楚歌のような急場でも、同じ質問を2〜3社に投げ、回答の整合性を比べてください。回答に差がある場合、時間や費用の予測が狂いやすい業者を除外する判断基準になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>到着時間・料金条件を同条件で比較</h3>
-<p>世田谷区対応の相談先を絞り込んで、到着時間・料金内訳・追加条件を同じ枠で比較できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵紛失時の初動フロー（世田谷区版）
 
@@ -75,12 +65,7 @@ keywords: ["世田谷区 鍵紛失", "世田谷区 鍵屋 おすすめ", "世田
 
 夜間・早朝は世田谷通りや環八の交通規制でタイムスケジュールが変わりやすいため、混雑予想と到着の上限を先にチェックしてください。電話で「混雑時は俯瞰すると何分」「最悪何分」でメモを残すと、現場で焦らず検討できます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>24時間の鍵紛失相談を事前確認</h3>
-<p>概算費用・到着時間・追加条件を電話で整理した上で依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 

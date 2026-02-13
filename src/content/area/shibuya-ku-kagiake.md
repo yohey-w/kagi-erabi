@@ -30,12 +30,7 @@ keywords: ["渋谷区 鍵開け", "渋谷区 鍵屋 おすすめ", "渋谷区 �
 
 ※料金は鍵の種類や時間帯で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>渋谷区対応の鍵トラブル相談</h3>
-<p>24時間365日受付。状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 渋谷区で失敗しにくい鍵開け業者の選び方
 
@@ -52,12 +47,7 @@ keywords: ["渋谷区 鍵開け", "渋谷区 鍵屋 おすすめ", "渋谷区 �
 
 「今すぐ行けます」という案内だけで即決せず、同条件で2〜3社を比較するのがぼったくり対策として有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>条件をそろえて複数社を比較</h3>
-<p>渋谷区対応の相談先を一括で確認し、到着時間と費用条件を比べてから依頼できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鍵をなくした・閉じ込めたときの初動（渋谷区版）
 
@@ -100,12 +90,7 @@ keywords: ["渋谷区 鍵開け", "渋谷区 鍵屋 おすすめ", "渋谷区 �
 ### Q5. 身分証が手元にない場合はどうなりますか？
 防犯上の理由から対応不可、または警察立ち会いを求められる場合があります。本人確認書類は事前に準備しておくと手続きがスムーズです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>渋谷区の鍵トラブルを今すぐ相談</h3>
-<p>概算費用・到着見込み・追加条件をまとめて確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 渋谷区で鍵開けを依頼する際は、到着速度だけで決めず、料金内訳と追加条件まで確認することが重要です。まずは電話で状況を伝え、概算費用と到着時間を確認してから比較検討する流れをおすすめします。
 

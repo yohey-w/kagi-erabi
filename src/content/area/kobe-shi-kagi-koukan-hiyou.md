@@ -33,12 +33,7 @@ keywords: ["神戸市 鍵交換 費用", "神戸市 鍵屋 おすすめ", "神�
 
 ※料金は鍵の種類、扉の状態、時間帯により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市対応の鍵トラブル相談窓口</h3>
-<p>状況を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 神戸市の鍵トラブル事情と対応時の注意点
 
@@ -76,12 +71,7 @@ keywords: ["神戸市 鍵交換 費用", "神戸市 鍵屋 おすすめ", "神�
 神戸市内で比較する際は、中央区の繁華街は業者競争が激しく安めの傾向、北区の山間部は業者数が限られ割高になりやすい傾向があります。
 条件をそろえて2社以上に見積もりを取りましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>神戸市対応の相談先を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -110,12 +100,7 @@ keywords: ["神戸市 鍵交換 費用", "神戸市 鍵屋 おすすめ", "神�
 防犯上、運転免許証やマイナンバーカードなどの提示を求める業者がほとんどです。
 鍵と住所が結びつくリスクを考慮し、本人確認は業界標準になっています。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

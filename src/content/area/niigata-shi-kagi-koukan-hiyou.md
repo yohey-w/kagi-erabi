@@ -29,12 +29,7 @@ keywords: ["新潟市 鍵交換 費用", "新潟市 鍵屋 おすすめ", "新�
 - ※冬季の積雪時や夜間（22時以降）は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市対応の鍵トラブル相談窓口</h3>
-<p>季節や時間帯を伝えると、概算費用と到着見込みをまとめて確認できます。積雪時の対応も相談可能。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新潟市の鍵トラブル事情と対応時の注意点
 
@@ -51,12 +46,7 @@ keywords: ["新潟市 鍵交換 費用", "新潟市 鍵屋 おすすめ", "新�
 
 冬季は業者の稼働が限定されるため、早めの連絡が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市の季節対応を確認したい方へ</h3>
-<p>積雪期の対応状況や到着時間を事前に確認し、万が一の備えができます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応状況を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 新潟市で鍵屋を選ぶ際の確認点
 
@@ -87,12 +77,7 @@ keywords: ["新潟市 鍵交換 費用", "新潟市 鍵屋 おすすめ", "新�
 ### Q5. 冬季の凍結で鍵が開かない場合、どうすればいいですか？
 温かいお湯をかけると錠前内の部品が傷むため避けましょう。専用の解氷スプレーを使用するか、業者に相談するのが安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市の鍵交換を今すぐ相談する</h3>
-<p>費用目安と到着見込みを確認し、比較したうえで依頼先を選べます。季節対応も相談可能。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

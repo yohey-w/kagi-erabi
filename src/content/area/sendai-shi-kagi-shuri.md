@@ -32,12 +32,7 @@ keywords: ["仙台市 鍵修理", "仙台市 鍵屋 おすすめ", "仙台市 �
 
 ※料金は鍵の種類、時間帯、季節により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市の鍵トラブル相談窓口</h3>
-<p>費用見積もりと到着予定時間をまとめて確認できます。複数社と比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 仙台市の鍵トラブル事情と緊急時の対応ステップ
 
@@ -58,12 +53,7 @@ keywords: ["仙台市 鍵修理", "仙台市 鍵屋 おすすめ", "仙台市 �
 
 実際に鍵トラブルに遭った場合、焦らずにこの4ステップを守るだけで、費用の無駄や業者選びの失敗が大きく減ります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>緊急時の業者手配をスムーズにしたい方へ</h3>
-<p>仙台市内の対応業者一覧を確認でき、ステップバイステップで依頼を進められます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 仙台市で鍵屋を選ぶ際に確認すべき4つのポイント
 
@@ -85,12 +75,7 @@ keywords: ["仙台市 鍵修理", "仙台市 鍵屋 おすすめ", "仙台市 �
 
 仙台市には24時間対応の大手業者から個人経営の鍵屋まで多様な選択肢がありますが、「料金が安いだけ」で選ぶと、後から追加請求されるリスクが高まります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>複数業者の見積もりを効率的に比較したい方へ</h3>
-<p>仙台市対応の業者一覧から、条件をそろえて複数社に問い合わせできます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## 仙台市の鍵トラブルに関するよくある質問（FAQ）
 
@@ -119,11 +104,6 @@ keywords: ["仙台市 鍵修理", "仙台市 鍵屋 おすすめ", "仙台市 �
 
 仙台市は降雪が多く、気温変化も激しい地域のため、タイミング次第で対応に差が出やすい特性があります。緊急時ほど落ち着いて、複数社を比較する手間をかけることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市の鍵修理を今すぐ相談する</h3>
-<p>費用見積もり、対応可能時間、業者の対応エリアをまとめて確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

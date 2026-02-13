@@ -28,12 +28,7 @@ keywords: ["北九州市 鍵開け", "北九州市 鍵屋 おすすめ", "北九
 - ※深夜・早朝は割増料金（通常料金の1.5〜2倍）が発生する場合があります
 - ※最新情報は必ず公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市対応の鍵開けサービス相談窓口</h3>
-<p>閉め出してしまった状況を伝えると、最短到着時間と費用目安を確認できます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">24時間対応を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 北九州市の鍵トラブル事情と対応時の注意点
 
@@ -68,12 +63,7 @@ keywords: ["北九州市 鍵開け", "北九州市 鍵屋 おすすめ", "北九
 
 北九州市で信頼できる鍵開け業者を見つけるには、焦らず2〜3社に電話して「同じ条件で比較」することが何より効果的です。料金の安さだけでなく、到着時間の目安がはっきり言える、見積もり時に丁寧に説明してくれる、という対応の質も重要な判断基準になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市の信頼できる鍵開け業者を探す</h3>
-<p>複数社の到着時間と費用を比較して、安心できる業者を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">業者を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -97,12 +87,7 @@ keywords: ["北九州市 鍵開け", "北九州市 鍵屋 おすすめ", "北九
 
 本人確認書類の提示を求める業者が多いため、運転免許証やマイナンバーカード等を用意しておくと対応がスムーズです。防犯面での本人確認は業者側の重要なチェック項目です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>北九州市の鍵開けを今すぐ相談する</h3>
-<p>到着見込み時間と費用目安をまとめて確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kagi-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 
