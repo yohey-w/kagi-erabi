@@ -30,6 +30,13 @@ export const affiliatePrograms = {
     status: 'active',
     affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AXA8I+50ZSOI+39BC+5YJRM',
   },
+  kagizaru: {
+    name: '鍵屋の鍵猿',
+    network: 'moshimo',
+    status: 'active',
+    clickUrl: '//af.moshimo.com/af/c/click?a_id=5382118&p_id=6995&pc_id=20002&pl_id=88370',
+    impressionUrl: '//i.moshimo.com/af/i/impression?a_id=5382118&p_id=6995&pc_id=20002&pl_id=88370',
+  },
 };
 
 export const affiliatePlacements = {
@@ -50,11 +57,12 @@ export const affiliatePlacements = {
     note: PR_NOTE,
   },
   bottom: {
-    title: '合鍵作成ならオンラインで手軽に',
+    title: '鍵のトラブルをスピード解決',
     description:
-      '俺の合鍵は写メで簡単に合鍵作成。全国送料無料で届きます。スペアキーの準備にどうぞ。',
-    buttonText: '俺の合鍵で合鍵を作る →',
-    affiliateUrl: affiliatePrograms.orenoAikagi.affiliateUrl,
+      '鍵屋の鍵猿は鍵の紛失・故障・交換に即日対応。出張サービスでスピード解決します。',
+    buttonText: '鍵屋の鍵猿に相談する →',
+    clickUrl: affiliatePrograms.kagizaru.clickUrl,
+    impressionUrl: affiliatePrograms.kagizaru.impressionUrl,
     note: PR_NOTE,
   },
 };
